@@ -113,7 +113,7 @@ class TestProducer < MsgProducer
   def message
     <<EOM
     Destino: 123456789
-    Carrier: Entel
+    Carrier: Movistar
     Text: #{random_string(@msg_len_sample.next.to_i)}
     Process: #{Process.pid}
     Seq: #{next_seq_number}
