@@ -63,6 +63,7 @@ end
 class MsgRouter < MsgConsumer
   def initialize(host, src_queue_name, dst_queue_names, process_time = 0.05)
     @dst_queue_names = dst_queue_names
+    @dst_queues = {}
     super(host, src_queue_name, process_time)
   end
 
@@ -73,7 +74,7 @@ class MsgRouter < MsgConsumer
 
   def random_destination_queue
     queue_name = @dst_queue_names[rand(@dst_queue_names.length)]
-    MQ.queue(queue_name, :durable => true)
+    @dst_queues[queue_name] ||= MQ.new.queue(queue_name)
   end
 end
 
