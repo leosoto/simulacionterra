@@ -4,6 +4,7 @@ require 'eventmachine'
 require 'mq'
 require 'optparse'
 require 'simpleoptparse'
+require 'seconds_as_minutes_string'
 
 Signal.trap('INT') { AMQP.stop{ EM.stop } }
 Signal.trap('TERM'){ AMQP.stop{ EM.stop } }
@@ -30,8 +31,9 @@ class MsgConsumer
     return unless should_print_stats?
     puts
     puts "Process id: #{Process.pid}"
+    puts "Time: #{Time.now.strftime('%H:%M:%S')}"
     puts "Total messages received #{@total_messages_received}"    
-    puts "Seconds elapsed #{Time.now - @start_time}"
+    puts "Minutes elapsed #{(Time.now - @start_time).seconds_as_minutes_string}"
     puts "MPS: #{@total_messages_received / (Time.now - @start_time)}"
     puts "Last message: \n#{msg}"
   end

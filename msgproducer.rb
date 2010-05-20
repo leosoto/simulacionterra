@@ -4,6 +4,7 @@ require 'eventmachine'
 require 'mq'
 require 'optparse'
 require 'simpleoptparse'
+require 'seconds_as_minutes_string'
 
 Signal.trap('INT') { AMQP.stop{ EM.stop } }
 Signal.trap('TERM'){ AMQP.stop{ EM.stop } }
@@ -90,8 +91,9 @@ class MsgProducer
     return unless should_print_stats?
     puts
     puts "Process id: #{Process.pid}"
+    puts "Time: #{Time.now.strftime('%H:%M:%S')}"
     puts "Total messages sent #{@total_messages_sent}"    
-    puts "Seconds elapsed #{@total_elapsed_seconds}"
+    puts "Minutes elapsed #{@total_elapsed_seconds.seconds_as_minutes_string}"
     puts "MPS: #{@total_messages_sent / @total_elapsed_seconds}"
   end
 
@@ -117,6 +119,7 @@ class TestProducer < MsgProducer
     Text: #{random_string(@msg_len_sample.next.to_i)}
     Process: #{Process.pid}
     Seq: #{next_seq_number}
+    Generated-At: #{Time.now.strftime('%H:%M:%S')}
 EOM
   end
 
