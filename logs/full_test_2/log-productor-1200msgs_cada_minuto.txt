@@ -1,0 +1,265 @@
+Producer started in process id 44373
+
+Process id: 44373
+Time: 16:51:10
+Total messages sent: 903
+Minutes elapsed: 01:00
+MPS: 15.0465746472815
+
+Process id: 44373
+Time: 16:52:10
+Total messages sent: 1868
+Minutes elapsed: 02:00
+MPS: 15.5369274338655
+
+Process id: 44373
+Time: 16:53:11
+Total messages sent: 3394
+Minutes elapsed: 03:00
+MPS: 18.7555466047647
+
+Process id: 44373
+Time: 16:54:12
+Total messages sent: 4180
+Minutes elapsed: 04:02
+MPS: 17.2710693214405
+
+Process id: 44373
+Time: 16:55:13
+Total messages sent: 5915
+Minutes elapsed: 05:02
+MPS: 19.5504927568663
+
+Process id: 44373
+Time: 16:56:14
+Total messages sent: 6991
+Minutes elapsed: 06:04
+MPS: 19.1985717031584
+
+Process id: 44373
+Time: 16:57:15
+Total messages sent: 8337
+Minutes elapsed: 07:04
+MPS: 19.6245475902694
+
+Process id: 44373
+Time: 16:58:16
+Total messages sent: 9639
+Minutes elapsed: 08:05
+MPS: 19.8480411402141
+
+Process id: 44373
+Time: 16:59:16
+Total messages sent: 10107
+Minutes elapsed: 09:06
+MPS: 18.498438938207
+
+Process id: 44373
+Time: 17:00:16
+Total messages sent: 10675
+Minutes elapsed: 10:06
+MPS: 17.5940088561302
+
+Process id: 44373
+Time: 17:01:17
+Total messages sent: 12533
+Minutes elapsed: 11:07
+MPS: 18.7882841740619
+
+Process id: 44373
+Time: 17:02:19
+Total messages sent: 14734
+Minutes elapsed: 12:08
+MPS: 20.2343335226376
+
+Process id: 44373
+Time: 17:03:19
+Total messages sent: 15791
+Minutes elapsed: 13:09
+MPS: 20.0006074277316
+
+Process id: 44373
+Time: 17:04:21
+Total messages sent: 17783
+Minutes elapsed: 14:10
+MPS: 20.9166955730232
+
+Process id: 44373
+Time: 17:05:21
+Total messages sent: 18928
+Minutes elapsed: 15:11
+MPS: 20.7689993926988
+
+Process id: 44373
+Time: 17:06:22
+Total messages sent: 20393
+Minutes elapsed: 16:12
+MPS: 20.9794004241466
+
+Process id: 44373
+Time: 17:07:23
+Total messages sent: 21241
+Minutes elapsed: 17:12
+MPS: 20.5642315708521
+
+Process id: 44373
+Time: 17:08:23
+Total messages sent: 22208
+Minutes elapsed: 18:13
+MPS: 20.3115694327244
+
+Process id: 44373
+Time: 17:09:24
+Total messages sent: 23202
+Minutes elapsed: 19:13
+MPS: 20.1057611041109
+
+Process id: 44373
+Time: 17:10:25
+Total messages sent: 24195
+Minutes elapsed: 20:14
+MPS: 19.9200723870484
+
+Process id: 44373
+Time: 17:11:26
+Total messages sent: 25859
+Minutes elapsed: 21:15
+MPS: 20.2778411785418
+
+Process id: 44373
+Time: 17:12:26
+Total messages sent: 26842
+Minutes elapsed: 22:16
+MPS: 20.0879400653101
+
+Process id: 44373
+Time: 17:13:27
+Total messages sent: 28284
+Minutes elapsed: 23:16
+MPS: 20.2494989419565
+
+Process id: 44373
+Time: 17:14:27
+Total messages sent: 28952
+Minutes elapsed: 24:17
+MPS: 19.8620035712269
+
+Process id: 44373
+Time: 17:15:28
+Total messages sent: 29713
+Minutes elapsed: 25:18
+MPS: 19.5730764670099
+
+Process id: 44373
+Time: 17:16:29
+Total messages sent: 31133
+Minutes elapsed: 26:18
+MPS: 19.7232520294972
+
+Process id: 44373
+Time: 17:17:29
+Total messages sent: 31791
+Minutes elapsed: 27:19
+MPS: 19.3930771703228
+
+Process id: 44373
+Time: 17:18:29
+Total messages sent: 32067
+Minutes elapsed: 28:19
+MPS: 18.8661209057812
+
+Process id: 44373
+Time: 17:19:30
+Total messages sent: 34067
+Minutes elapsed: 29:19
+MPS: 19.3575909421194
+
+Process id: 44373
+Time: 17:20:31
+Total messages sent: 35469
+Minutes elapsed: 30:21
+MPS: 19.477283536142
+
+Process id: 44373
+Time: 17:21:32
+Total messages sent: 36881
+Minutes elapsed: 31:21
+MPS: 19.597302569058
+
+Process id: 44373
+Time: 17:22:33
+Total messages sent: 38494
+Minutes elapsed: 32:22
+MPS: 19.8137807881223
+
+Process id: 44373
+Time: 17:23:34
+Total messages sent: 39662
+Minutes elapsed: 33:23
+MPS: 19.7942151431697
+
+Process id: 44373
+Time: 17:24:34
+Total messages sent: 40450
+Minutes elapsed: 34:24
+MPS: 19.5945313746881
+
+Process id: 44373
+Time: 17:25:35
+Total messages sent: 41240
+Minutes elapsed: 35:24
+MPS: 19.4084749389282
+
+Process id: 44373
+Time: 17:26:35
+Total messages sent: 42683
+Minutes elapsed: 36:25
+MPS: 19.5316887764563
+
+Process id: 44373
+Time: 17:27:36
+Total messages sent: 43742
+Minutes elapsed: 37:26
+MPS: 19.4741516660386
+
+Process id: 44373
+Time: 17:28:36
+Total messages sent: 44280
+Minutes elapsed: 38:26
+MPS: 19.1950384040504
+
+Process id: 44373
+Time: 17:29:37
+Total messages sent: 45939
+Minutes elapsed: 39:27
+MPS: 19.4068145155828
+
+Process id: 44373
+Time: 17:30:38
+Total messages sent: 47028
+Minutes elapsed: 40:28
+MPS: 19.3680977156953
+
+Process id: 44373
+Time: 17:31:38
+Total messages sent: 47488
+Minutes elapsed: 41:28
+MPS: 19.0807868848366
+
+Process id: 44373
+Time: 17:32:39
+Total messages sent: 49000
+Minutes elapsed: 42:29
+MPS: 19.2228720102187
+
+Process id: 44373
+Time: 17:33:39
+Total messages sent: 49342
+Minutes elapsed: 43:29
+MPS: 18.9058234993692
+
+Process id: 44373
+Time: 17:34:40
+Total messages sent: 49879
+Minutes elapsed: 44:30
+MPS: 18.6805972405844

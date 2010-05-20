@@ -1,0 +1,49 @@
+Producer started in process id 44375
+
+Process id: 44375
+Time: 16:55:16
+Total messages sent: 24162
+Minutes elapsed: 05:00
+MPS: 80.5335991895364
+
+Process id: 44375
+Time: 17:00:24
+Total messages sent: 37433
+Minutes elapsed: 10:05
+MPS: 61.7795351415523
+
+Process id: 44375
+Time: 17:05:26
+Total messages sent: 41597
+Minutes elapsed: 15:13
+MPS: 45.526486072194
+
+Process id: 44375
+Time: 17:10:36
+Total messages sent: 57727
+Minutes elapsed: 20:16
+MPS: 47.470155145389
+
+Process id: 44375
+Time: 17:15:48
+Total messages sent: 78539
+Minutes elapsed: 25:25
+MPS: 51.4720108723169
+
+Process id: 44375
+Time: 17:20:57
+Total messages sent: 96116
+Minutes elapsed: 30:37
+MPS: 52.3153784682184
+
+Process id: 44375
+Time: 17:26:03
+Total messages sent: 107804
+Minutes elapsed: 35:46
+MPS: 50.2201245270886
+
+Process id: 44375
+Time: 17:31:11
+Total messages sent: 122477
+Minutes elapsed: 40:52
+MPS: 49.9302344248049

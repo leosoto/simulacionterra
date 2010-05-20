@@ -1,0 +1,3241 @@
+Producer started in process id 44371
+
+Process id: 44371
+Time: 16:50:08
+Total messages sent: 0
+Minutes elapsed: 00:00
+MPS: 0.0
+
+Process id: 44371
+Time: 16:50:13
+Total messages sent: 97
+Minutes elapsed: 00:05
+MPS: 19.1923312984186
+
+Process id: 44371
+Time: 16:50:18
+Total messages sent: 203
+Minutes elapsed: 00:10
+MPS: 20.1232414715621
+
+Process id: 44371
+Time: 16:50:23
+Total messages sent: 299
+Minutes elapsed: 00:15
+MPS: 19.7853311422568
+
+Process id: 44371
+Time: 16:50:29
+Total messages sent: 406
+Minutes elapsed: 00:20
+MPS: 20.1287107104671
+
+Process id: 44371
+Time: 16:50:34
+Total messages sent: 515
+Minutes elapsed: 00:25
+MPS: 20.4685452710765
+
+Process id: 44371
+Time: 16:50:39
+Total messages sent: 620
+Minutes elapsed: 00:30
+MPS: 20.5142994427952
+
+Process id: 44371
+Time: 16:50:44
+Total messages sent: 734
+Minutes elapsed: 00:35
+MPS: 20.8031571823637
+
+Process id: 44371
+Time: 16:50:49
+Total messages sent: 837
+Minutes elapsed: 00:40
+MPS: 20.7638903790626
+
+Process id: 44371
+Time: 16:50:54
+Total messages sent: 927
+Minutes elapsed: 00:45
+MPS: 20.4475047812862
+
+Process id: 44371
+Time: 16:50:59
+Total messages sent: 1036
+Minutes elapsed: 00:50
+MPS: 20.5562970505563
+
+Process id: 44371
+Time: 16:51:04
+Total messages sent: 1140
+Minutes elapsed: 00:55
+MPS: 20.5670308763092
+
+Process id: 44371
+Time: 16:51:09
+Total messages sent: 1226
+Minutes elapsed: 01:00
+MPS: 20.2721089132776
+
+Process id: 44371
+Time: 16:51:14
+Total messages sent: 1331
+Minutes elapsed: 01:05
+MPS: 20.3154173839897
+
+Process id: 44371
+Time: 16:51:19
+Total messages sent: 1433
+Minutes elapsed: 01:10
+MPS: 20.3037281881391
+
+Process id: 44371
+Time: 16:51:24
+Total messages sent: 1531
+Minutes elapsed: 01:15
+MPS: 20.2492597910197
+
+Process id: 44371
+Time: 16:51:29
+Total messages sent: 1628
+Minutes elapsed: 01:20
+MPS: 20.1838230526386
+
+Process id: 44371
+Time: 16:51:34
+Total messages sent: 1743
+Minutes elapsed: 01:25
+MPS: 20.3378358400367
+
+Process id: 44371
+Time: 16:51:39
+Total messages sent: 1835
+Minutes elapsed: 01:30
+MPS: 20.2306876092099
+
+Process id: 44371
+Time: 16:51:44
+Total messages sent: 1931
+Minutes elapsed: 01:35
+MPS: 20.1603146971878
+
+Process id: 44371
+Time: 16:51:49
+Total messages sent: 2026
+Minutes elapsed: 01:40
+MPS: 20.1024542516859
+
+Process id: 44371
+Time: 16:51:54
+Total messages sent: 2109
+Minutes elapsed: 01:45
+MPS: 19.9328920297523
+
+Process id: 44371
+Time: 16:51:59
+Total messages sent: 2216
+Minutes elapsed: 01:50
+MPS: 19.9842268898017
+
+Process id: 44371
+Time: 16:52:04
+Total messages sent: 2315
+Minutes elapsed: 01:55
+MPS: 19.965412488613
+
+Process id: 44371
+Time: 16:52:09
+Total messages sent: 2416
+Minutes elapsed: 02:01
+MPS: 19.9668114569035
+
+Process id: 44371
+Time: 16:52:14
+Total messages sent: 2513
+Minutes elapsed: 02:06
+MPS: 19.9418270005164
+
+Process id: 44371
+Time: 16:52:19
+Total messages sent: 2613
+Minutes elapsed: 02:11
+MPS: 19.943040143447
+
+Process id: 44371
+Time: 16:52:24
+Total messages sent: 2723
+Minutes elapsed: 02:16
+MPS: 20.0057051892426
+
+Process id: 44371
+Time: 16:52:30
+Total messages sent: 2830
+Minutes elapsed: 02:21
+MPS: 20.047599660514
+
+Process id: 44371
+Time: 16:52:35
+Total messages sent: 2932
+Minutes elapsed: 02:26
+MPS: 20.0546801936168
+
+Process id: 44371
+Time: 16:52:40
+Total messages sent: 3040
+Minutes elapsed: 02:31
+MPS: 20.0975814266403
+
+Process id: 44371
+Time: 16:52:45
+Total messages sent: 3131
+Minutes elapsed: 02:36
+MPS: 20.0281385431611
+
+Process id: 44371
+Time: 16:52:50
+Total messages sent: 3226
+Minutes elapsed: 02:41
+MPS: 19.9900367079287
+
+Process id: 44371
+Time: 16:52:55
+Total messages sent: 3333
+Minutes elapsed: 02:46
+MPS: 20.0244833403928
+
+Process id: 44371
+Time: 16:53:00
+Total messages sent: 3441
+Minutes elapsed: 02:51
+MPS: 20.0661747571148
+
+Process id: 44371
+Time: 16:53:05
+Total messages sent: 3534
+Minutes elapsed: 02:56
+MPS: 20.0183856466883
+
+Process id: 44371
+Time: 16:53:10
+Total messages sent: 3635
+Minutes elapsed: 03:01
+MPS: 20.0209765857845
+
+Process id: 44371
+Time: 16:53:15
+Total messages sent: 3748
+Minutes elapsed: 03:06
+MPS: 20.0802074634744
+
+Process id: 44371
+Time: 16:53:20
+Total messages sent: 3842
+Minutes elapsed: 03:11
+MPS: 20.0402266081224
+
+Process id: 44371
+Time: 16:53:25
+Total messages sent: 3944
+Minutes elapsed: 03:16
+MPS: 20.044525885213
+
+Process id: 44371
+Time: 16:53:30
+Total messages sent: 4042
+Minutes elapsed: 03:21
+MPS: 20.0290646405009
+
+Process id: 44371
+Time: 16:53:35
+Total messages sent: 4138
+Minutes elapsed: 03:26
+MPS: 20.0038976178089
+
+Process id: 44371
+Time: 16:53:40
+Total messages sent: 4236
+Minutes elapsed: 03:31
+MPS: 19.9902511188464
+
+Process id: 44371
+Time: 16:53:45
+Total messages sent: 4338
+Minutes elapsed: 03:36
+MPS: 19.9922454236987
+
+Process id: 44371
+Time: 16:53:50
+Total messages sent: 4438
+Minutes elapsed: 03:42
+MPS: 19.9897364099216
+
+Process id: 44371
+Time: 16:53:55
+Total messages sent: 4548
+Minutes elapsed: 03:47
+MPS: 20.0285083885959
+
+Process id: 44371
+Time: 16:54:00
+Total messages sent: 4641
+Minutes elapsed: 03:52
+MPS: 19.9953507901233
+
+Process id: 44371
+Time: 16:54:06
+Total messages sent: 4748
+Minutes elapsed: 03:57
+MPS: 20.0202990146348
+
+Process id: 44371
+Time: 16:54:11
+Total messages sent: 4859
+Minutes elapsed: 04:02
+MPS: 20.062427884005
+
+Process id: 44371
+Time: 16:54:16
+Total messages sent: 4952
+Minutes elapsed: 04:07
+MPS: 20.0288651863393
+
+Process id: 44371
+Time: 16:54:21
+Total messages sent: 5055
+Minutes elapsed: 04:12
+MPS: 20.0383268380018
+
+Process id: 44371
+Time: 16:54:26
+Total messages sent: 5149
+Minutes elapsed: 04:17
+MPS: 20.0113394999531
+
+Process id: 44371
+Time: 16:54:31
+Total messages sent: 5242
+Minutes elapsed: 04:22
+MPS: 19.9805980845558
+
+Process id: 44371
+Time: 16:54:36
+Total messages sent: 5352
+Minutes elapsed: 04:27
+MPS: 20.0153034796455
+
+Process id: 44371
+Time: 16:54:41
+Total messages sent: 5446
+Minutes elapsed: 04:32
+MPS: 19.9862779485582
+
+Process id: 44371
+Time: 16:54:46
+Total messages sent: 5546
+Minutes elapsed: 04:37
+MPS: 19.9848963047115
+
+Process id: 44371
+Time: 16:54:51
+Total messages sent: 5654
+Minutes elapsed: 04:42
+MPS: 20.0086771977918
+
+Process id: 44371
+Time: 16:54:56
+Total messages sent: 5753
+Minutes elapsed: 04:47
+MPS: 20.0024416677708
+
+Process id: 44371
+Time: 16:55:01
+Total messages sent: 5851
+Minutes elapsed: 04:52
+MPS: 19.9913710122216
+
+Process id: 44371
+Time: 16:55:06
+Total messages sent: 5959
+Minutes elapsed: 04:57
+MPS: 20.0161750445175
+
+Process id: 44371
+Time: 16:55:11
+Total messages sent: 6052
+Minutes elapsed: 05:02
+MPS: 19.9887024197417
+
+Process id: 44371
+Time: 16:55:16
+Total messages sent: 6145
+Minutes elapsed: 05:07
+MPS: 19.9650131744557
+
+Process id: 44371
+Time: 16:55:21
+Total messages sent: 6247
+Minutes elapsed: 05:12
+MPS: 19.9686541675614
+
+Process id: 44371
+Time: 16:55:26
+Total messages sent: 6345
+Minutes elapsed: 05:17
+MPS: 19.9597807115625
+
+Process id: 44371
+Time: 16:55:31
+Total messages sent: 6453
+Minutes elapsed: 05:22
+MPS: 19.9819486178915
+
+Process id: 44371
+Time: 16:55:36
+Total messages sent: 6565
+Minutes elapsed: 05:27
+MPS: 20.017134056939
+
+Process id: 44371
+Time: 16:55:41
+Total messages sent: 6671
+Minutes elapsed: 05:32
+MPS: 20.0346992822721
+
+Process id: 44371
+Time: 16:55:46
+Total messages sent: 6767
+Minutes elapsed: 05:37
+MPS: 20.0211702499162
+
+Process id: 44371
+Time: 16:55:51
+Total messages sent: 6876
+Minutes elapsed: 05:43
+MPS: 20.0441601766386
+
+Process id: 44371
+Time: 16:55:56
+Total messages sent: 6977
+Minutes elapsed: 05:48
+MPS: 20.0452460017118
+
+Process id: 44371
+Time: 16:56:01
+Total messages sent: 7073
+Minutes elapsed: 05:53
+MPS: 20.0302181313693
+
+Process id: 44371
+Time: 16:56:06
+Total messages sent: 7169
+Minutes elapsed: 05:58
+MPS: 20.0171765747591
+
+Process id: 44371
+Time: 16:56:12
+Total messages sent: 7281
+Minutes elapsed: 06:03
+MPS: 20.0464528707466
+
+Process id: 44371
+Time: 16:56:17
+Total messages sent: 7382
+Minutes elapsed: 06:08
+MPS: 20.0472189403192
+
+Process id: 44371
+Time: 16:56:22
+Total messages sent: 7463
+Minutes elapsed: 06:13
+MPS: 19.9947879056155
+
+Process id: 44371
+Time: 16:56:27
+Total messages sent: 7567
+Minutes elapsed: 06:18
+MPS: 20.0018847289348
+
+Process id: 44371
+Time: 16:56:32
+Total messages sent: 7663
+Minutes elapsed: 06:23
+MPS: 19.9900420217396
+
+Process id: 44371
+Time: 16:56:37
+Total messages sent: 7767
+Minutes elapsed: 06:28
+MPS: 19.9975613634324
+
+Process id: 44371
+Time: 16:56:42
+Total messages sent: 7878
+Minutes elapsed: 06:33
+MPS: 20.0214693280583
+
+Process id: 44371
+Time: 16:56:47
+Total messages sent: 7986
+Minutes elapsed: 06:38
+MPS: 20.038684296122
+
+Process id: 44371
+Time: 16:56:52
+Total messages sent: 8080
+Minutes elapsed: 06:43
+MPS: 20.0220242762634
+
+Process id: 44371
+Time: 16:56:57
+Total messages sent: 8175
+Minutes elapsed: 06:48
+MPS: 20.007097123069
+
+Process id: 44371
+Time: 16:57:02
+Total messages sent: 8276
+Minutes elapsed: 06:53
+MPS: 20.0082131345651
+
+Process id: 44371
+Time: 16:57:07
+Total messages sent: 8384
+Minutes elapsed: 06:58
+MPS: 20.0248473866709
+
+Process id: 44371
+Time: 16:57:12
+Total messages sent: 8497
+Minutes elapsed: 07:03
+MPS: 20.0529309585257
+
+Process id: 44371
+Time: 16:57:17
+Total messages sent: 8601
+Minutes elapsed: 07:08
+MPS: 20.0589252911053
+
+Process id: 44371
+Time: 16:57:22
+Total messages sent: 8708
+Minutes elapsed: 07:13
+MPS: 20.0727881527805
+
+Process id: 44371
+Time: 16:57:27
+Total messages sent: 8817
+Minutes elapsed: 07:18
+MPS: 20.0897570333347
+
+Process id: 44371
+Time: 16:57:32
+Total messages sent: 8924
+Minutes elapsed: 07:23
+MPS: 20.1031353921344
+
+Process id: 44371
+Time: 16:57:37
+Total messages sent: 9029
+Minutes elapsed: 07:28
+MPS: 20.1104144833936
+
+Process id: 44371
+Time: 16:57:42
+Total messages sent: 9130
+Minutes elapsed: 07:34
+MPS: 20.1092048319111
+
+Process id: 44371
+Time: 16:57:47
+Total messages sent: 9233
+Minutes elapsed: 07:39
+MPS: 20.1121966065176
+
+Process id: 44371
+Time: 16:57:52
+Total messages sent: 9346
+Minutes elapsed: 07:44
+MPS: 20.1376208803195
+
+Process id: 44371
+Time: 16:57:58
+Total messages sent: 9442
+Minutes elapsed: 07:49
+MPS: 20.1252976906027
+
+Process id: 44371
+Time: 16:58:03
+Total messages sent: 9537
+Minutes elapsed: 07:54
+MPS: 20.1125312679266
+
+Process id: 44371
+Time: 16:58:08
+Total messages sent: 9639
+Minutes elapsed: 07:59
+MPS: 20.1133683675005
+
+Process id: 44371
+Time: 16:58:13
+Total messages sent: 9753
+Minutes elapsed: 08:04
+MPS: 20.1395716297627
+
+Process id: 44371
+Time: 16:58:18
+Total messages sent: 9863
+Minutes elapsed: 08:09
+MPS: 20.1556926818397
+
+Process id: 44371
+Time: 16:58:23
+Total messages sent: 9964
+Minutes elapsed: 08:14
+MPS: 20.154824613228
+
+Process id: 44371
+Time: 16:58:28
+Total messages sent: 10062
+Minutes elapsed: 08:19
+MPS: 20.1492363140062
+
+Process id: 44371
+Time: 16:58:33
+Total messages sent: 10157
+Minutes elapsed: 08:24
+MPS: 20.1370803642705
+
+Process id: 44371
+Time: 16:58:38
+Total messages sent: 10255
+Minutes elapsed: 08:29
+MPS: 20.1301761862509
+
+Process id: 44371
+Time: 16:58:43
+Total messages sent: 10359
+Minutes elapsed: 08:34
+MPS: 20.1347977575119
+
+Process id: 44371
+Time: 16:58:48
+Total messages sent: 10455
+Minutes elapsed: 08:39
+MPS: 20.1235607804485
+
+Process id: 44371
+Time: 16:58:53
+Total messages sent: 10567
+Minutes elapsed: 08:44
+MPS: 20.1435505625747
+
+Process id: 44371
+Time: 16:58:58
+Total messages sent: 10670
+Minutes elapsed: 08:49
+MPS: 20.1460874176004
+
+Process id: 44371
+Time: 16:59:03
+Total messages sent: 10766
+Minutes elapsed: 08:54
+MPS: 20.1362592194553
+
+Process id: 44371
+Time: 16:59:08
+Total messages sent: 10867
+Minutes elapsed: 08:59
+MPS: 20.1357834796293
+
+Process id: 44371
+Time: 16:59:13
+Total messages sent: 10962
+Minutes elapsed: 09:04
+MPS: 20.1230220087724
+
+Process id: 44371
+Time: 16:59:18
+Total messages sent: 11067
+Minutes elapsed: 09:09
+MPS: 20.1299754700779
+
+Process id: 44371
+Time: 16:59:23
+Total messages sent: 11172
+Minutes elapsed: 09:14
+MPS: 20.1353432820372
+
+Process id: 44371
+Time: 16:59:28
+Total messages sent: 11270
+Minutes elapsed: 09:19
+MPS: 20.1298332088995
+
+Process id: 44371
+Time: 16:59:33
+Total messages sent: 11377
+Minutes elapsed: 09:24
+MPS: 20.1390468333755
+
+Process id: 44371
+Time: 16:59:38
+Total messages sent: 11480
+Minutes elapsed: 09:29
+MPS: 20.1421188958503
+
+Process id: 44371
+Time: 16:59:43
+Total messages sent: 11583
+Minutes elapsed: 09:35
+MPS: 20.1437048390284
+
+Process id: 44371
+Time: 16:59:48
+Total messages sent: 11688
+Minutes elapsed: 09:40
+MPS: 20.1501605202162
+
+Process id: 44371
+Time: 16:59:53
+Total messages sent: 11782
+Minutes elapsed: 09:45
+MPS: 20.1364011305096
+
+Process id: 44371
+Time: 16:59:58
+Total messages sent: 11887
+Minutes elapsed: 09:50
+MPS: 20.1430007321515
+
+Process id: 44371
+Time: 17:00:04
+Total messages sent: 11987
+Minutes elapsed: 09:55
+MPS: 20.1402115592878
+
+Process id: 44371
+Time: 17:00:09
+Total messages sent: 12076
+Minutes elapsed: 10:00
+MPS: 20.1202127395598
+
+Process id: 44371
+Time: 17:00:14
+Total messages sent: 12182
+Minutes elapsed: 10:05
+MPS: 20.1274550022093
+
+Process id: 44371
+Time: 17:00:19
+Total messages sent: 12287
+Minutes elapsed: 10:10
+MPS: 20.1333528620465
+
+Process id: 44371
+Time: 17:00:24
+Total messages sent: 12386
+Minutes elapsed: 10:15
+MPS: 20.1299022278492
+
+Process id: 44371
+Time: 17:00:29
+Total messages sent: 12486
+Minutes elapsed: 10:20
+MPS: 20.1276693261541
+
+Process id: 44371
+Time: 17:00:34
+Total messages sent: 12590
+Minutes elapsed: 10:25
+MPS: 20.1311411289219
+
+Process id: 44371
+Time: 17:00:39
+Total messages sent: 12697
+Minutes elapsed: 10:30
+MPS: 20.140290918468
+
+Process id: 44371
+Time: 17:00:44
+Total messages sent: 12791
+Minutes elapsed: 10:35
+MPS: 20.1279601984606
+
+Process id: 44371
+Time: 17:00:49
+Total messages sent: 12886
+Minutes elapsed: 10:40
+MPS: 20.118356827164
+
+Process id: 44371
+Time: 17:00:54
+Total messages sent: 12990
+Minutes elapsed: 10:45
+MPS: 20.122134073299
+
+Process id: 44371
+Time: 17:00:59
+Total messages sent: 13093
+Minutes elapsed: 10:50
+MPS: 20.1251222178858
+
+Process id: 44371
+Time: 17:01:04
+Total messages sent: 13202
+Minutes elapsed: 10:55
+MPS: 20.1357381804474
+
+Process id: 44371
+Time: 17:01:09
+Total messages sent: 13300
+Minutes elapsed: 11:00
+MPS: 20.1310682085453
+
+Process id: 44371
+Time: 17:01:14
+Total messages sent: 13395
+Minutes elapsed: 11:05
+MPS: 20.1219942658399
+
+Process id: 44371
+Time: 17:01:19
+Total messages sent: 13505
+Minutes elapsed: 11:10
+MPS: 20.13383266431
+
+Process id: 44371
+Time: 17:01:24
+Total messages sent: 13606
+Minutes elapsed: 11:15
+MPS: 20.1335312734986
+
+Process id: 44371
+Time: 17:01:29
+Total messages sent: 13701
+Minutes elapsed: 11:20
+MPS: 20.1237646630636
+
+Process id: 44371
+Time: 17:01:34
+Total messages sent: 13798
+Minutes elapsed: 11:25
+MPS: 20.1175175328035
+
+Process id: 44371
+Time: 17:01:39
+Total messages sent: 13897
+Minutes elapsed: 11:30
+MPS: 20.11344460373
+
+Process id: 44371
+Time: 17:01:44
+Total messages sent: 13997
+Minutes elapsed: 11:35
+MPS: 20.1108350837411
+
+Process id: 44371
+Time: 17:01:49
+Total messages sent: 14102
+Minutes elapsed: 11:41
+MPS: 20.1153667778449
+
+Process id: 44371
+Time: 17:01:54
+Total messages sent: 14200
+Minutes elapsed: 11:46
+MPS: 20.1111556318276
+
+Process id: 44371
+Time: 17:01:59
+Total messages sent: 14297
+Minutes elapsed: 11:51
+MPS: 20.1047602710394
+
+Process id: 44371
+Time: 17:02:04
+Total messages sent: 14379
+Minutes elapsed: 11:56
+MPS: 20.0786482565256
+
+Process id: 44371
+Time: 17:02:10
+Total messages sent: 14473
+Minutes elapsed: 12:01
+MPS: 20.0681540468441
+
+Process id: 44371
+Time: 17:02:15
+Total messages sent: 14576
+Minutes elapsed: 12:06
+MPS: 20.0711341318131
+
+Process id: 44371
+Time: 17:02:20
+Total messages sent: 14677
+Minutes elapsed: 12:11
+MPS: 20.0711599406405
+
+Process id: 44371
+Time: 17:02:25
+Total messages sent: 14790
+Minutes elapsed: 12:16
+MPS: 20.0867636824303
+
+Process id: 44371
+Time: 17:02:30
+Total messages sent: 14891
+Minutes elapsed: 12:21
+MPS: 20.0860586244295
+
+Process id: 44371
+Time: 17:02:35
+Total messages sent: 15002
+Minutes elapsed: 12:26
+MPS: 20.0987183613203
+
+Process id: 44371
+Time: 17:02:40
+Total messages sent: 15104
+Minutes elapsed: 12:31
+MPS: 20.0998856524902
+
+Process id: 44371
+Time: 17:02:45
+Total messages sent: 15207
+Minutes elapsed: 12:36
+MPS: 20.1010107314809
+
+Process id: 44371
+Time: 17:02:50
+Total messages sent: 15296
+Minutes elapsed: 12:41
+MPS: 20.0853182720897
+
+Process id: 44371
+Time: 17:02:55
+Total messages sent: 15393
+Minutes elapsed: 12:46
+MPS: 20.0795746250449
+
+Process id: 44371
+Time: 17:03:00
+Total messages sent: 15485
+Minutes elapsed: 12:51
+MPS: 20.0682595572832
+
+Process id: 44371
+Time: 17:03:05
+Total messages sent: 15578
+Minutes elapsed: 12:56
+MPS: 20.0575639983714
+
+Process id: 44371
+Time: 17:03:10
+Total messages sent: 15686
+Minutes elapsed: 13:01
+MPS: 20.0665445301579
+
+Process id: 44371
+Time: 17:03:15
+Total messages sent: 15781
+Minutes elapsed: 13:06
+MPS: 20.0582749002244
+
+Process id: 44371
+Time: 17:03:20
+Total messages sent: 15875
+Minutes elapsed: 13:11
+MPS: 20.0492639779424
+
+Process id: 44371
+Time: 17:03:25
+Total messages sent: 15976
+Minutes elapsed: 13:16
+MPS: 20.0482966427687
+
+Process id: 44371
+Time: 17:03:30
+Total messages sent: 16083
+Minutes elapsed: 13:21
+MPS: 20.0560009987319
+
+Process id: 44371
+Time: 17:03:35
+Total messages sent: 16193
+Minutes elapsed: 13:26
+MPS: 20.0666428911292
+
+Process id: 44371
+Time: 17:03:40
+Total messages sent: 16297
+Minutes elapsed: 13:31
+MPS: 20.0705963305577
+
+Process id: 44371
+Time: 17:03:45
+Total messages sent: 16391
+Minutes elapsed: 13:37
+MPS: 20.0616890021521
+
+Process id: 44371
+Time: 17:03:50
+Total messages sent: 16493
+Minutes elapsed: 13:42
+MPS: 20.0632336729837
+
+Process id: 44371
+Time: 17:03:55
+Total messages sent: 16603
+Minutes elapsed: 13:47
+MPS: 20.0737056222708
+
+Process id: 44371
+Time: 17:04:00
+Total messages sent: 16713
+Minutes elapsed: 13:52
+MPS: 20.0846231883318
+
+Process id: 44371
+Time: 17:04:06
+Total messages sent: 16803
+Minutes elapsed: 13:57
+MPS: 20.0711573473318
+
+Process id: 44371
+Time: 17:04:11
+Total messages sent: 16907
+Minutes elapsed: 14:02
+MPS: 20.0749383067885
+
+Process id: 44371
+Time: 17:04:16
+Total messages sent: 17026
+Minutes elapsed: 14:07
+MPS: 20.0954888862601
+
+Process id: 44371
+Time: 17:04:21
+Total messages sent: 17125
+Minutes elapsed: 14:12
+MPS: 20.0931897382902
+
+Process id: 44371
+Time: 17:04:26
+Total messages sent: 17229
+Minutes elapsed: 14:17
+MPS: 20.0960360976453
+
+Process id: 44371
+Time: 17:04:31
+Total messages sent: 17331
+Minutes elapsed: 14:22
+MPS: 20.0970608140744
+
+Process id: 44371
+Time: 17:04:36
+Total messages sent: 17430
+Minutes elapsed: 14:27
+MPS: 20.0949692860035
+
+Process id: 44371
+Time: 17:04:41
+Total messages sent: 17530
+Minutes elapsed: 14:32
+MPS: 20.0932193793254
+
+Process id: 44371
+Time: 17:04:46
+Total messages sent: 17634
+Minutes elapsed: 14:37
+MPS: 20.096696633697
+
+Process id: 44371
+Time: 17:04:51
+Total messages sent: 17735
+Minutes elapsed: 14:42
+MPS: 20.0961181637875
+
+Process id: 44371
+Time: 17:04:56
+Total messages sent: 17835
+Minutes elapsed: 14:47
+MPS: 20.095098161974
+
+Process id: 44371
+Time: 17:05:01
+Total messages sent: 17935
+Minutes elapsed: 14:52
+MPS: 20.0934249141035
+
+Process id: 44371
+Time: 17:05:06
+Total messages sent: 18044
+Minutes elapsed: 14:57
+MPS: 20.102430752749
+
+Process id: 44371
+Time: 17:05:11
+Total messages sent: 18146
+Minutes elapsed: 15:02
+MPS: 20.102976784015
+
+Process id: 44371
+Time: 17:05:16
+Total messages sent: 18252
+Minutes elapsed: 15:07
+MPS: 20.1083681073029
+
+Process id: 44371
+Time: 17:05:21
+Total messages sent: 18354
+Minutes elapsed: 15:12
+MPS: 20.1085303860022
+
+Process id: 44371
+Time: 17:05:26
+Total messages sent: 18455
+Minutes elapsed: 15:17
+MPS: 20.1081127856252
+
+Process id: 44371
+Time: 17:05:31
+Total messages sent: 18549
+Minutes elapsed: 15:22
+MPS: 20.0998861289271
+
+Process id: 44371
+Time: 17:05:36
+Total messages sent: 18654
+Minutes elapsed: 15:27
+MPS: 20.1038203356383
+
+Process id: 44371
+Time: 17:05:41
+Total messages sent: 18759
+Minutes elapsed: 15:32
+MPS: 20.1074935737534
+
+Process id: 44371
+Time: 17:05:46
+Total messages sent: 18861
+Minutes elapsed: 15:37
+MPS: 20.1085935054664
+
+Process id: 44371
+Time: 17:05:51
+Total messages sent: 18963
+Minutes elapsed: 15:43
+MPS: 20.1090802066519
+
+Process id: 44371
+Time: 17:05:56
+Total messages sent: 19065
+Minutes elapsed: 15:48
+MPS: 20.1100848724478
+
+Process id: 44371
+Time: 17:06:01
+Total messages sent: 19163
+Minutes elapsed: 15:53
+MPS: 20.106239763502
+
+Process id: 44371
+Time: 17:06:06
+Total messages sent: 19266
+Minutes elapsed: 15:58
+MPS: 20.1081606123638
+
+Process id: 44371
+Time: 17:06:12
+Total messages sent: 19368
+Minutes elapsed: 16:03
+MPS: 20.1083547959147
+
+Process id: 44371
+Time: 17:06:17
+Total messages sent: 19479
+Minutes elapsed: 16:08
+MPS: 20.1185612355577
+
+Process id: 44371
+Time: 17:06:22
+Total messages sent: 19571
+Minutes elapsed: 16:13
+MPS: 20.10888178083
+
+Process id: 44371
+Time: 17:06:27
+Total messages sent: 19663
+Minutes elapsed: 16:18
+MPS: 20.0998072832968
+
+Process id: 44371
+Time: 17:06:32
+Total messages sent: 19771
+Minutes elapsed: 16:23
+MPS: 20.1060178085193
+
+Process id: 44371
+Time: 17:06:37
+Total messages sent: 19872
+Minutes elapsed: 16:28
+MPS: 20.1061229336433
+
+Process id: 44371
+Time: 17:06:42
+Total messages sent: 19981
+Minutes elapsed: 16:33
+MPS: 20.1131540620458
+
+Process id: 44371
+Time: 17:06:47
+Total messages sent: 20069
+Minutes elapsed: 16:38
+MPS: 20.1000837141592
+
+Process id: 44371
+Time: 17:06:52
+Total messages sent: 20181
+Minutes elapsed: 16:43
+MPS: 20.1104030535028
+
+Process id: 44371
+Time: 17:06:57
+Total messages sent: 20277
+Minutes elapsed: 16:48
+MPS: 20.1054376865137
+
+Process id: 44371
+Time: 17:07:02
+Total messages sent: 20372
+Minutes elapsed: 16:53
+MPS: 20.0996913910035
+
+Process id: 44371
+Time: 17:07:07
+Total messages sent: 20470
+Minutes elapsed: 16:58
+MPS: 20.0963163526735
+
+Process id: 44371
+Time: 17:07:12
+Total messages sent: 20579
+Minutes elapsed: 17:03
+MPS: 20.1041180541163
+
+Process id: 44371
+Time: 17:07:17
+Total messages sent: 20680
+Minutes elapsed: 17:08
+MPS: 20.1031111708023
+
+Process id: 44371
+Time: 17:07:22
+Total messages sent: 20786
+Minutes elapsed: 17:13
+MPS: 20.1077673595702
+
+Process id: 44371
+Time: 17:07:27
+Total messages sent: 20892
+Minutes elapsed: 17:18
+MPS: 20.1117142577077
+
+Process id: 44371
+Time: 17:07:32
+Total messages sent: 20994
+Minutes elapsed: 17:23
+MPS: 20.1127103103408
+
+Process id: 44371
+Time: 17:07:37
+Total messages sent: 21094
+Minutes elapsed: 17:28
+MPS: 20.1112883415348
+
+Process id: 44371
+Time: 17:07:42
+Total messages sent: 21193
+Minutes elapsed: 17:33
+MPS: 20.1094565510314
+
+Process id: 44371
+Time: 17:07:47
+Total messages sent: 21281
+Minutes elapsed: 17:38
+MPS: 20.0963565383029
+
+Process id: 44371
+Time: 17:07:52
+Total messages sent: 21390
+Minutes elapsed: 17:43
+MPS: 20.1039610129474
+
+Process id: 44371
+Time: 17:07:57
+Total messages sent: 21493
+Minutes elapsed: 17:49
+MPS: 20.1053845437715
+
+Process id: 44371
+Time: 17:08:02
+Total messages sent: 21600
+Minutes elapsed: 17:54
+MPS: 20.1109022594944
+
+Process id: 44371
+Time: 17:08:07
+Total messages sent: 21696
+Minutes elapsed: 17:59
+MPS: 20.105854357728
+
+Process id: 44371
+Time: 17:08:12
+Total messages sent: 21800
+Minutes elapsed: 18:04
+MPS: 20.108687585538
+
+Process id: 44371
+Time: 17:08:18
+Total messages sent: 21904
+Minutes elapsed: 18:09
+MPS: 20.1108354008981
+
+Process id: 44371
+Time: 17:08:23
+Total messages sent: 22006
+Minutes elapsed: 18:14
+MPS: 20.1117060230602
+
+Process id: 44371
+Time: 17:08:28
+Total messages sent: 22099
+Minutes elapsed: 18:19
+MPS: 20.1031916961152
+
+Process id: 44371
+Time: 17:08:33
+Total messages sent: 22200
+Minutes elapsed: 18:24
+MPS: 20.1032497837804
+
+Process id: 44371
+Time: 17:08:38
+Total messages sent: 22297
+Minutes elapsed: 18:29
+MPS: 20.0991670746331
+
+Process id: 44371
+Time: 17:08:43
+Total messages sent: 22400
+Minutes elapsed: 18:34
+MPS: 20.1003211154616
+
+Process id: 44371
+Time: 17:08:48
+Total messages sent: 22505
+Minutes elapsed: 18:39
+MPS: 20.1034889916455
+
+Process id: 44371
+Time: 17:08:53
+Total messages sent: 22601
+Minutes elapsed: 18:44
+MPS: 20.0990614181188
+
+Process id: 44371
+Time: 17:08:58
+Total messages sent: 22700
+Minutes elapsed: 18:49
+MPS: 20.0967158078053
+
+Process id: 44371
+Time: 17:09:03
+Total messages sent: 22808
+Minutes elapsed: 18:54
+MPS: 20.1029772719112
+
+Process id: 44371
+Time: 17:09:08
+Total messages sent: 22908
+Minutes elapsed: 18:59
+MPS: 20.1022020769826
+
+Process id: 44371
+Time: 17:09:13
+Total messages sent: 23011
+Minutes elapsed: 19:04
+MPS: 20.1034779854741
+
+Process id: 44371
+Time: 17:09:18
+Total messages sent: 23114
+Minutes elapsed: 19:09
+MPS: 20.1052971490069
+
+Process id: 44371
+Time: 17:09:23
+Total messages sent: 23221
+Minutes elapsed: 19:14
+MPS: 20.1100006556945
+
+Process id: 44371
+Time: 17:09:28
+Total messages sent: 23323
+Minutes elapsed: 19:19
+MPS: 20.1107951240498
+
+Process id: 44371
+Time: 17:09:33
+Total messages sent: 23422
+Minutes elapsed: 19:24
+MPS: 20.1086199447348
+
+Process id: 44371
+Time: 17:09:38
+Total messages sent: 23527
+Minutes elapsed: 19:29
+MPS: 20.1120383724595
+
+Process id: 44371
+Time: 17:09:43
+Total messages sent: 23622
+Minutes elapsed: 19:34
+MPS: 20.1065651699195
+
+Process id: 44371
+Time: 17:09:48
+Total messages sent: 23725
+Minutes elapsed: 19:39
+MPS: 20.108149450642
+
+Process id: 44371
+Time: 17:09:53
+Total messages sent: 23822
+Minutes elapsed: 19:44
+MPS: 20.1040745455843
+
+Process id: 44371
+Time: 17:09:58
+Total messages sent: 23918
+Minutes elapsed: 19:49
+MPS: 20.0999656555975
+
+Process id: 44371
+Time: 17:10:03
+Total messages sent: 24011
+Minutes elapsed: 19:55
+MPS: 20.0927396713217
+
+Process id: 44371
+Time: 17:10:08
+Total messages sent: 24105
+Minutes elapsed: 20:00
+MPS: 20.0870576160343
+
+Process id: 44371
+Time: 17:10:13
+Total messages sent: 24203
+Minutes elapsed: 20:05
+MPS: 20.0842710221105
+
+Process id: 44371
+Time: 17:10:18
+Total messages sent: 24313
+Minutes elapsed: 20:10
+MPS: 20.0915741772084
+
+Process id: 44371
+Time: 17:10:24
+Total messages sent: 24403
+Minutes elapsed: 20:15
+MPS: 20.0821630309429
+
+Process id: 44371
+Time: 17:10:29
+Total messages sent: 24515
+Minutes elapsed: 20:20
+MPS: 20.091502430791
+
+Process id: 44371
+Time: 17:10:34
+Total messages sent: 24607
+Minutes elapsed: 20:25
+MPS: 20.0844772030906
+
+Process id: 44371
+Time: 17:10:39
+Total messages sent: 24713
+Minutes elapsed: 20:30
+MPS: 20.0879743052039
+
+Process id: 44371
+Time: 17:10:44
+Total messages sent: 24825
+Minutes elapsed: 20:35
+MPS: 20.0961271142104
+
+Process id: 44371
+Time: 17:10:49
+Total messages sent: 24930
+Minutes elapsed: 20:40
+MPS: 20.0992260494302
+
+Process id: 44371
+Time: 17:10:54
+Total messages sent: 25029
+Minutes elapsed: 20:45
+MPS: 20.0972456326191
+
+Process id: 44371
+Time: 17:10:59
+Total messages sent: 25121
+Minutes elapsed: 20:50
+MPS: 20.0901532451233
+
+Process id: 44371
+Time: 17:11:04
+Total messages sent: 25214
+Minutes elapsed: 20:55
+MPS: 20.0840260081366
+
+Process id: 44371
+Time: 17:11:09
+Total messages sent: 25324
+Minutes elapsed: 21:00
+MPS: 20.0908378944476
+
+Process id: 44371
+Time: 17:11:14
+Total messages sent: 25436
+Minutes elapsed: 21:05
+MPS: 20.0995486329325
+
+Process id: 44371
+Time: 17:11:19
+Total messages sent: 25540
+Minutes elapsed: 21:10
+MPS: 20.1014578030544
+
+Process id: 44371
+Time: 17:11:24
+Total messages sent: 25651
+Minutes elapsed: 21:15
+MPS: 20.1092863157841
+
+Process id: 44371
+Time: 17:11:29
+Total messages sent: 25759
+Minutes elapsed: 21:20
+MPS: 20.114077122316
+
+Process id: 44371
+Time: 17:11:34
+Total messages sent: 25854
+Minutes elapsed: 21:25
+MPS: 20.1095052710211
+
+Process id: 44371
+Time: 17:11:39
+Total messages sent: 25950
+Minutes elapsed: 21:30
+MPS: 20.1052975718192
+
+Process id: 44371
+Time: 17:11:44
+Total messages sent: 26048
+Minutes elapsed: 21:35
+MPS: 20.1030135432176
+
+Process id: 44371
+Time: 17:11:49
+Total messages sent: 26152
+Minutes elapsed: 21:40
+MPS: 20.1049164517487
+
+Process id: 44371
+Time: 17:11:54
+Total messages sent: 26249
+Minutes elapsed: 21:45
+MPS: 20.1019026396092
+
+Process id: 44371
+Time: 17:11:59
+Total messages sent: 26361
+Minutes elapsed: 21:50
+MPS: 20.1098185281538
+
+Process id: 44371
+Time: 17:12:04
+Total messages sent: 26462
+Minutes elapsed: 21:55
+MPS: 20.1098457806462
+
+Process id: 44371
+Time: 17:12:09
+Total messages sent: 26557
+Minutes elapsed: 22:00
+MPS: 20.1049385279827
+
+Process id: 44371
+Time: 17:12:14
+Total messages sent: 26658
+Minutes elapsed: 22:05
+MPS: 20.1049481915667
+
+Process id: 44371
+Time: 17:12:19
+Total messages sent: 26767
+Minutes elapsed: 22:11
+MPS: 20.1101766005883
+
+Process id: 44371
+Time: 17:12:24
+Total messages sent: 26875
+Minutes elapsed: 22:16
+MPS: 20.115250211947
+
+Process id: 44371
+Time: 17:12:29
+Total messages sent: 26966
+Minutes elapsed: 22:21
+MPS: 20.107372579177
+
+Process id: 44371
+Time: 17:12:34
+Total messages sent: 27074
+Minutes elapsed: 22:26
+MPS: 20.1125826962724
+
+Process id: 44371
+Time: 17:12:40
+Total messages sent: 27172
+Minutes elapsed: 22:31
+MPS: 20.109909387947
+
+Process id: 44371
+Time: 17:12:45
+Total messages sent: 27270
+Minutes elapsed: 22:36
+MPS: 20.1077155056355
+
+Process id: 44371
+Time: 17:12:50
+Total messages sent: 27367
+Minutes elapsed: 22:41
+MPS: 20.1044589250209
+
+Process id: 44371
+Time: 17:12:55
+Total messages sent: 27472
+Minutes elapsed: 22:46
+MPS: 20.1073959056264
+
+Process id: 44371
+Time: 17:13:00
+Total messages sent: 27568
+Minutes elapsed: 22:51
+MPS: 20.1034982168129
+
+Process id: 44371
+Time: 17:13:05
+Total messages sent: 27673
+Minutes elapsed: 22:56
+MPS: 20.1064698647847
+
+Process id: 44371
+Time: 17:13:10
+Total messages sent: 27775
+Minutes elapsed: 23:01
+MPS: 20.1068279133255
+
+Process id: 44371
+Time: 17:13:15
+Total messages sent: 27873
+Minutes elapsed: 23:06
+MPS: 20.1047009953969
+
+Process id: 44371
+Time: 17:13:20
+Total messages sent: 27973
+Minutes elapsed: 23:11
+MPS: 20.1040463635402
+
+Process id: 44371
+Time: 17:13:25
+Total messages sent: 28090
+Minutes elapsed: 23:16
+MPS: 20.1149004647628
+
+Process id: 44371
+Time: 17:13:30
+Total messages sent: 28184
+Minutes elapsed: 23:21
+MPS: 20.1099550465159
+
+Process id: 44371
+Time: 17:13:35
+Total messages sent: 28282
+Minutes elapsed: 23:26
+MPS: 20.1074436938237
+
+Process id: 44371
+Time: 17:13:40
+Total messages sent: 28379
+Minutes elapsed: 23:31
+MPS: 20.1047052681981
+
+Process id: 44371
+Time: 17:13:45
+Total messages sent: 28485
+Minutes elapsed: 23:36
+MPS: 20.1077259079817
+
+Process id: 44371
+Time: 17:13:50
+Total messages sent: 28578
+Minutes elapsed: 23:41
+MPS: 20.1021887428124
+
+Process id: 44371
+Time: 17:13:55
+Total messages sent: 28673
+Minutes elapsed: 23:46
+MPS: 20.0977144667148
+
+Process id: 44371
+Time: 17:14:00
+Total messages sent: 28765
+Minutes elapsed: 23:51
+MPS: 20.0915560299332
+
+Process id: 44371
+Time: 17:14:05
+Total messages sent: 28868
+Minutes elapsed: 23:56
+MPS: 20.0926424917215
+
+Process id: 44371
+Time: 17:14:10
+Total messages sent: 28963
+Minutes elapsed: 24:01
+MPS: 20.0886379678386
+
+Process id: 44371
+Time: 17:14:15
+Total messages sent: 29070
+Minutes elapsed: 24:06
+MPS: 20.0924830661735
+
+Process id: 44371
+Time: 17:14:20
+Total messages sent: 29176
+Minutes elapsed: 24:11
+MPS: 20.0959713500989
+
+Process id: 44371
+Time: 17:14:25
+Total messages sent: 29285
+Minutes elapsed: 24:16
+MPS: 20.101028338134
+
+Process id: 44371
+Time: 17:14:30
+Total messages sent: 29390
+Minutes elapsed: 24:21
+MPS: 20.1038117883303
+
+Process id: 44371
+Time: 17:14:35
+Total messages sent: 29497
+Minutes elapsed: 24:26
+MPS: 20.1074966937324
+
+Process id: 44371
+Time: 17:14:40
+Total messages sent: 29597
+Minutes elapsed: 24:31
+MPS: 20.1067827843462
+
+Process id: 44371
+Time: 17:14:45
+Total messages sent: 29692
+Minutes elapsed: 24:37
+MPS: 20.1024790149368
+
+Process id: 44371
+Time: 17:14:50
+Total messages sent: 29785
+Minutes elapsed: 24:42
+MPS: 20.0972211727814
+
+Process id: 44371
+Time: 17:14:55
+Total messages sent: 29885
+Minutes elapsed: 24:47
+MPS: 20.0962014071338
+
+Process id: 44371
+Time: 17:15:00
+Total messages sent: 29968
+Minutes elapsed: 24:52
+MPS: 20.0843681791529
+
+Process id: 44371
+Time: 17:15:05
+Total messages sent: 30069
+Minutes elapsed: 24:57
+MPS: 20.0844457397626
+
+Process id: 44371
+Time: 17:15:11
+Total messages sent: 30164
+Minutes elapsed: 25:02
+MPS: 20.0802831208083
+
+Process id: 44371
+Time: 17:15:16
+Total messages sent: 30264
+Minutes elapsed: 25:07
+MPS: 20.0797794105393
+
+Process id: 44371
+Time: 17:15:21
+Total messages sent: 30377
+Minutes elapsed: 25:12
+MPS: 20.0873239888574
+
+Process id: 44371
+Time: 17:15:26
+Total messages sent: 30483
+Minutes elapsed: 25:17
+MPS: 20.0906822863855
+
+Process id: 44371
+Time: 17:15:31
+Total messages sent: 30588
+Minutes elapsed: 25:22
+MPS: 20.0929542445905
+
+Process id: 44371
+Time: 17:15:36
+Total messages sent: 30684
+Minutes elapsed: 25:27
+MPS: 20.0897669503622
+
+Process id: 44371
+Time: 17:15:41
+Total messages sent: 30792
+Minutes elapsed: 25:32
+MPS: 20.0932855841121
+
+Process id: 44371
+Time: 17:15:46
+Total messages sent: 30902
+Minutes elapsed: 25:37
+MPS: 20.0985408655752
+
+Process id: 44371
+Time: 17:15:51
+Total messages sent: 30996
+Minutes elapsed: 25:42
+MPS: 20.0935914838895
+
+Process id: 44371
+Time: 17:15:56
+Total messages sent: 31094
+Minutes elapsed: 25:47
+MPS: 20.0917350602731
+
+Process id: 44371
+Time: 17:16:01
+Total messages sent: 31181
+Minutes elapsed: 25:52
+MPS: 20.082498408824
+
+Process id: 44371
+Time: 17:16:06
+Total messages sent: 31273
+Minutes elapsed: 25:57
+MPS: 20.0768239833431
+
+Process id: 44371
+Time: 17:16:11
+Total messages sent: 31373
+Minutes elapsed: 26:02
+MPS: 20.076010310373
+
+Process id: 44371
+Time: 17:16:16
+Total messages sent: 31474
+Minutes elapsed: 26:07
+MPS: 20.0762102355453
+
+Process id: 44371
+Time: 17:16:21
+Total messages sent: 31579
+Minutes elapsed: 26:12
+MPS: 20.0784637931303
+
+Process id: 44371
+Time: 17:16:26
+Total messages sent: 31676
+Minutes elapsed: 26:17
+MPS: 20.076043255302
+
+Process id: 44371
+Time: 17:16:31
+Total messages sent: 31775
+Minutes elapsed: 26:22
+MPS: 20.0749119901487
+
+Process id: 44371
+Time: 17:16:36
+Total messages sent: 31867
+Minutes elapsed: 26:27
+MPS: 20.0690793114228
+
+Process id: 44371
+Time: 17:16:41
+Total messages sent: 31977
+Minutes elapsed: 26:32
+MPS: 20.0747306567796
+
+Process id: 44371
+Time: 17:16:46
+Total messages sent: 32071
+Minutes elapsed: 26:37
+MPS: 20.0702276358324
+
+Process id: 44371
+Time: 17:16:51
+Total messages sent: 32176
+Minutes elapsed: 26:42
+MPS: 20.0728206573946
+
+Process id: 44371
+Time: 17:16:56
+Total messages sent: 32273
+Minutes elapsed: 26:48
+MPS: 20.0701713338782
+
+Process id: 44371
+Time: 17:17:01
+Total messages sent: 32382
+Minutes elapsed: 26:53
+MPS: 20.075263602774
+
+Process id: 44371
+Time: 17:17:06
+Total messages sent: 32484
+Minutes elapsed: 26:58
+MPS: 20.0756823684052
+
+Process id: 44371
+Time: 17:17:11
+Total messages sent: 32576
+Minutes elapsed: 27:03
+MPS: 20.0702974613946
+
+Process id: 44371
+Time: 17:17:16
+Total messages sent: 32675
+Minutes elapsed: 27:08
+MPS: 20.0688861461338
+
+Process id: 44371
+Time: 17:17:22
+Total messages sent: 32775
+Minutes elapsed: 27:13
+MPS: 20.0684048801513
+
+Process id: 44371
+Time: 17:17:27
+Total messages sent: 32875
+Minutes elapsed: 27:18
+MPS: 20.0675188657143
+
+Process id: 44371
+Time: 17:17:32
+Total messages sent: 32985
+Minutes elapsed: 27:23
+MPS: 20.0728539746995
+
+Process id: 44371
+Time: 17:17:37
+Total messages sent: 33093
+Minutes elapsed: 27:28
+MPS: 20.0769395547897
+
+Process id: 44371
+Time: 17:17:42
+Total messages sent: 33197
+Minutes elapsed: 27:33
+MPS: 20.078830175576
+
+Process id: 44371
+Time: 17:17:47
+Total messages sent: 33287
+Minutes elapsed: 27:38
+MPS: 20.0720338726063
+
+Process id: 44371
+Time: 17:17:52
+Total messages sent: 33381
+Minutes elapsed: 27:43
+MPS: 20.0680038345767
+
+Process id: 44371
+Time: 17:17:57
+Total messages sent: 33487
+Minutes elapsed: 27:48
+MPS: 20.0708878561838
+
+Process id: 44371
+Time: 17:18:02
+Total messages sent: 33599
+Minutes elapsed: 27:53
+MPS: 20.0775675570189
+
+Process id: 44371
+Time: 17:18:07
+Total messages sent: 33687
+Minutes elapsed: 27:58
+MPS: 20.0696750341599
+
+Process id: 44371
+Time: 17:18:12
+Total messages sent: 33777
+Minutes elapsed: 28:03
+MPS: 20.0633301508017
+
+Process id: 44371
+Time: 17:18:17
+Total messages sent: 33887
+Minutes elapsed: 28:08
+MPS: 20.0687680229674
+
+Process id: 44371
+Time: 17:18:22
+Total messages sent: 33988
+Minutes elapsed: 28:13
+MPS: 20.0685688344057
+
+Process id: 44371
+Time: 17:18:27
+Total messages sent: 34083
+Minutes elapsed: 28:18
+MPS: 20.0651352686743
+
+Process id: 44371
+Time: 17:18:32
+Total messages sent: 34176
+Minutes elapsed: 28:23
+MPS: 20.0601929874504
+
+Process id: 44371
+Time: 17:18:37
+Total messages sent: 34270
+Minutes elapsed: 28:28
+MPS: 20.0563192446985
+
+Process id: 44371
+Time: 17:18:42
+Total messages sent: 34366
+Minutes elapsed: 28:33
+MPS: 20.0532586096224
+
+Process id: 44371
+Time: 17:18:47
+Total messages sent: 34463
+Minutes elapsed: 28:38
+MPS: 20.0511850090052
+
+Process id: 44371
+Time: 17:18:52
+Total messages sent: 34551
+Minutes elapsed: 28:43
+MPS: 20.0436135130449
+
+Process id: 44371
+Time: 17:18:57
+Total messages sent: 34661
+Minutes elapsed: 28:48
+MPS: 20.0490050644942
+
+Process id: 44371
+Time: 17:19:02
+Total messages sent: 34761
+Minutes elapsed: 28:53
+MPS: 20.0483390999874
+
+Process id: 44371
+Time: 17:19:07
+Total messages sent: 34855
+Minutes elapsed: 28:58
+MPS: 20.0445582910948
+
+Process id: 44371
+Time: 17:19:12
+Total messages sent: 34948
+Minutes elapsed: 29:03
+MPS: 20.040189617421
+
+Process id: 44371
+Time: 17:19:17
+Total messages sent: 35057
+Minutes elapsed: 29:08
+MPS: 20.0446164906103
+
+Process id: 44371
+Time: 17:19:22
+Total messages sent: 35163
+Minutes elapsed: 29:13
+MPS: 20.047630954466
+
+Process id: 44371
+Time: 17:19:27
+Total messages sent: 35260
+Minutes elapsed: 29:19
+MPS: 20.0452959903729
+
+Process id: 44371
+Time: 17:19:32
+Total messages sent: 35370
+Minutes elapsed: 29:24
+MPS: 20.0504909683569
+
+Process id: 44371
+Time: 17:19:37
+Total messages sent: 35468
+Minutes elapsed: 29:29
+MPS: 20.048717626381
+
+Process id: 44371
+Time: 17:19:42
+Total messages sent: 35569
+Minutes elapsed: 29:34
+MPS: 20.0488586666806
+
+Process id: 44371
+Time: 17:19:48
+Total messages sent: 35667
+Minutes elapsed: 29:39
+MPS: 20.0470700505951
+
+Process id: 44371
+Time: 17:19:53
+Total messages sent: 35760
+Minutes elapsed: 29:44
+MPS: 20.0428468761509
+
+Process id: 44371
+Time: 17:19:58
+Total messages sent: 35858
+Minutes elapsed: 29:49
+MPS: 20.0411072519161
+
+Process id: 44371
+Time: 17:20:03
+Total messages sent: 35947
+Minutes elapsed: 29:54
+MPS: 20.0347236030919
+
+Process id: 44371
+Time: 17:20:08
+Total messages sent: 36052
+Minutes elapsed: 29:59
+MPS: 20.0368641173874
+
+Process id: 44371
+Time: 17:20:13
+Total messages sent: 36158
+Minutes elapsed: 30:04
+MPS: 20.0398557803887
+
+Process id: 44371
+Time: 17:20:18
+Total messages sent: 36264
+Minutes elapsed: 30:09
+MPS: 20.0424647345031
+
+Process id: 44371
+Time: 17:20:23
+Total messages sent: 36369
+Minutes elapsed: 30:14
+MPS: 20.0448475700098
+
+Process id: 44371
+Time: 17:20:28
+Total messages sent: 36467
+Minutes elapsed: 30:19
+MPS: 20.0430304357407
+
+Process id: 44371
+Time: 17:20:33
+Total messages sent: 36564
+Minutes elapsed: 30:24
+MPS: 20.0409915121054
+
+Process id: 44371
+Time: 17:20:38
+Total messages sent: 36674
+Minutes elapsed: 30:29
+MPS: 20.0457438364695
+
+Process id: 44371
+Time: 17:20:43
+Total messages sent: 36782
+Minutes elapsed: 30:34
+MPS: 20.0497028765622
+
+Process id: 44371
+Time: 17:20:48
+Total messages sent: 36884
+Minutes elapsed: 30:39
+MPS: 20.0500752314061
+
+Process id: 44371
+Time: 17:20:53
+Total messages sent: 36984
+Minutes elapsed: 30:44
+MPS: 20.0494546166429
+
+Process id: 44371
+Time: 17:20:58
+Total messages sent: 37073
+Minutes elapsed: 30:49
+MPS: 20.0425799591534
+
+Process id: 44371
+Time: 17:21:03
+Total messages sent: 37179
+Minutes elapsed: 30:54
+MPS: 20.045422834329
+
+Process id: 44371
+Time: 17:21:08
+Total messages sent: 37283
+Minutes elapsed: 30:59
+MPS: 20.0468220486205
+
+Process id: 44371
+Time: 17:21:13
+Total messages sent: 37388
+Minutes elapsed: 31:04
+MPS: 20.0491741441764
+
+Process id: 44371
+Time: 17:21:18
+Total messages sent: 37490
+Minutes elapsed: 31:09
+MPS: 20.0495464777615
+
+Process id: 44371
+Time: 17:21:23
+Total messages sent: 37593
+Minutes elapsed: 31:14
+MPS: 20.050759126365
+
+Process id: 44371
+Time: 17:21:28
+Total messages sent: 37692
+Minutes elapsed: 31:19
+MPS: 20.0498820873894
+
+Process id: 44371
+Time: 17:21:33
+Total messages sent: 37791
+Minutes elapsed: 31:24
+MPS: 20.0485997240647
+
+Process id: 44371
+Time: 17:21:38
+Total messages sent: 37897
+Minutes elapsed: 31:29
+MPS: 20.0513810912936
+
+Process id: 44371
+Time: 17:21:43
+Total messages sent: 37997
+Minutes elapsed: 31:35
+MPS: 20.0507477211261
+
+Process id: 44371
+Time: 17:21:48
+Total messages sent: 38093
+Minutes elapsed: 31:40
+MPS: 20.0482959043217
+
+Process id: 44371
+Time: 17:21:53
+Total messages sent: 38197
+Minutes elapsed: 31:45
+MPS: 20.0497843015211
+
+Process id: 44371
+Time: 17:21:58
+Total messages sent: 38294
+Minutes elapsed: 31:50
+MPS: 20.0479412060636
+
+Process id: 44371
+Time: 17:22:04
+Total messages sent: 38397
+Minutes elapsed: 31:55
+MPS: 20.0488921137663
+
+Process id: 44371
+Time: 17:22:09
+Total messages sent: 38490
+Minutes elapsed: 32:00
+MPS: 20.0449514885434
+
+Process id: 44371
+Time: 17:22:14
+Total messages sent: 38585
+Minutes elapsed: 32:05
+MPS: 20.0418089743535
+
+Process id: 44371
+Time: 17:22:19
+Total messages sent: 38685
+Minutes elapsed: 32:10
+MPS: 20.0414997005581
+
+Process id: 44371
+Time: 17:22:24
+Total messages sent: 38793
+Minutes elapsed: 32:15
+MPS: 20.0455220044192
+
+Process id: 44371
+Time: 17:22:29
+Total messages sent: 38899
+Minutes elapsed: 32:20
+MPS: 20.0482253543773
+
+Process id: 44371
+Time: 17:22:34
+Total messages sent: 39010
+Minutes elapsed: 32:25
+MPS: 20.0531965296215
+
+Process id: 44371
+Time: 17:22:39
+Total messages sent: 39101
+Minutes elapsed: 32:30
+MPS: 20.0482437212442
+
+Process id: 44371
+Time: 17:22:44
+Total messages sent: 39204
+Minutes elapsed: 32:35
+MPS: 20.0490624655868
+
+Process id: 44371
+Time: 17:22:49
+Total messages sent: 39303
+Minutes elapsed: 32:40
+MPS: 20.0482371103021
+
+Process id: 44371
+Time: 17:22:54
+Total messages sent: 39397
+Minutes elapsed: 32:45
+MPS: 20.0446063900168
+
+Process id: 44371
+Time: 17:22:59
+Total messages sent: 39494
+Minutes elapsed: 32:50
+MPS: 20.0428138538652
+
+Process id: 44371
+Time: 17:23:04
+Total messages sent: 39596
+Minutes elapsed: 32:55
+MPS: 20.0434825322707
+
+Process id: 44371
+Time: 17:23:09
+Total messages sent: 39704
+Minutes elapsed: 33:00
+MPS: 20.0468300392333
+
+Process id: 44371
+Time: 17:23:14
+Total messages sent: 39803
+Minutes elapsed: 33:05
+MPS: 20.0460173418797
+
+Process id: 44371
+Time: 17:23:19
+Total messages sent: 39896
+Minutes elapsed: 33:10
+MPS: 20.0419064528948
+
+Process id: 44371
+Time: 17:23:24
+Total messages sent: 39973
+Minutes elapsed: 33:15
+MPS: 20.030134887708
+
+Process id: 44371
+Time: 17:23:29
+Total messages sent: 40078
+Minutes elapsed: 33:20
+MPS: 20.0320841733404
+
+Process id: 44371
+Time: 17:23:34
+Total messages sent: 40173
+Minutes elapsed: 33:25
+MPS: 20.029226756572
+
+Process id: 44371
+Time: 17:23:39
+Total messages sent: 40272
+Minutes elapsed: 33:30
+MPS: 20.0281925754701
+
+Process id: 44371
+Time: 17:23:44
+Total messages sent: 40376
+Minutes elapsed: 33:35
+MPS: 20.029613318964
+
+Process id: 44371
+Time: 17:23:49
+Total messages sent: 40474
+Minutes elapsed: 33:40
+MPS: 20.0280716032668
+
+Process id: 44371
+Time: 17:23:54
+Total messages sent: 40570
+Minutes elapsed: 33:45
+MPS: 20.0258319707461
+
+Process id: 44371
+Time: 17:23:59
+Total messages sent: 40663
+Minutes elapsed: 33:50
+MPS: 20.021865799726
+
+Process id: 44371
+Time: 17:24:04
+Total messages sent: 40760
+Minutes elapsed: 33:55
+MPS: 20.0201528379237
+
+Process id: 44371
+Time: 17:24:09
+Total messages sent: 40853
+Minutes elapsed: 34:00
+MPS: 20.0165235659743
+
+Process id: 44371
+Time: 17:24:14
+Total messages sent: 40953
+Minutes elapsed: 34:06
+MPS: 20.0160545541433
+
+Process id: 44371
+Time: 17:24:19
+Total messages sent: 41054
+Minutes elapsed: 34:11
+MPS: 20.0163288173014
+
+Process id: 44371
+Time: 17:24:24
+Total messages sent: 41166
+Minutes elapsed: 34:16
+MPS: 20.0215381577576
+
+Process id: 44371
+Time: 17:24:29
+Total messages sent: 41271
+Minutes elapsed: 34:21
+MPS: 20.023676834649
+
+Process id: 44371
+Time: 17:24:35
+Total messages sent: 41371
+Minutes elapsed: 34:26
+MPS: 20.0229547536269
+
+Process id: 44371
+Time: 17:24:40
+Total messages sent: 41473
+Minutes elapsed: 34:31
+MPS: 20.0236576862514
+
+Process id: 44371
+Time: 17:24:45
+Total messages sent: 41573
+Minutes elapsed: 34:36
+MPS: 20.0231396848086
+
+Process id: 44371
+Time: 17:24:50
+Total messages sent: 41674
+Minutes elapsed: 34:41
+MPS: 20.0233523872731
+
+Process id: 44371
+Time: 17:24:55
+Total messages sent: 41774
+Minutes elapsed: 34:46
+MPS: 20.0228194187914
+
+Process id: 44371
+Time: 17:25:00
+Total messages sent: 41875
+Minutes elapsed: 34:51
+MPS: 20.0230680854292
+
+Process id: 44371
+Time: 17:25:05
+Total messages sent: 41981
+Minutes elapsed: 34:56
+MPS: 20.0254136384876
+
+Process id: 44371
+Time: 17:25:10
+Total messages sent: 42086
+Minutes elapsed: 35:01
+MPS: 20.0275163779865
+
+Process id: 44371
+Time: 17:25:15
+Total messages sent: 42193
+Minutes elapsed: 35:06
+MPS: 20.03026723251
+
+Process id: 44371
+Time: 17:25:20
+Total messages sent: 42285
+Minutes elapsed: 35:11
+MPS: 20.0262378051356
+
+Process id: 44371
+Time: 17:25:25
+Total messages sent: 42378
+Minutes elapsed: 35:16
+MPS: 20.0224207550536
+
+Process id: 44371
+Time: 17:25:30
+Total messages sent: 42480
+Minutes elapsed: 35:21
+MPS: 20.0230624388802
+
+Process id: 44371
+Time: 17:25:35
+Total messages sent: 42583
+Minutes elapsed: 35:26
+MPS: 20.0239322551067
+
+Process id: 44371
+Time: 17:25:40
+Total messages sent: 42690
+Minutes elapsed: 35:31
+MPS: 20.026887576657
+
+Process id: 44371
+Time: 17:25:45
+Total messages sent: 42802
+Minutes elapsed: 35:36
+MPS: 20.031931090981
+
+Process id: 44371
+Time: 17:25:50
+Total messages sent: 42907
+Minutes elapsed: 35:41
+MPS: 20.0339647210209
+
+Process id: 44371
+Time: 17:25:55
+Total messages sent: 43009
+Minutes elapsed: 35:46
+MPS: 20.0343621102265
+
+Process id: 44371
+Time: 17:26:00
+Total messages sent: 43112
+Minutes elapsed: 35:51
+MPS: 20.035208123302
+
+Process id: 44371
+Time: 17:26:05
+Total messages sent: 43219
+Minutes elapsed: 35:56
+MPS: 20.038260201572
+
+Process id: 44371
+Time: 17:26:10
+Total messages sent: 43332
+Minutes elapsed: 36:01
+MPS: 20.0439276189963
+
+Process id: 44371
+Time: 17:26:15
+Total messages sent: 43424
+Minutes elapsed: 36:06
+MPS: 20.0397308893412
+
+Process id: 44371
+Time: 17:26:20
+Total messages sent: 43517
+Minutes elapsed: 36:11
+MPS: 20.0362915497476
+
+Process id: 44371
+Time: 17:26:25
+Total messages sent: 43620
+Minutes elapsed: 36:16
+MPS: 20.0371239306535
+
+Process id: 44371
+Time: 17:26:30
+Total messages sent: 43723
+Minutes elapsed: 36:21
+MPS: 20.0382449219385
+
+Process id: 44371
+Time: 17:26:35
+Total messages sent: 43818
+Minutes elapsed: 36:27
+MPS: 20.0356344765094
+
+Process id: 44371
+Time: 17:26:40
+Total messages sent: 43914
+Minutes elapsed: 36:32
+MPS: 20.0332865688344
+
+Process id: 44371
+Time: 17:26:45
+Total messages sent: 44020
+Minutes elapsed: 36:37
+MPS: 20.0356021088725
+
+Process id: 44371
+Time: 17:26:50
+Total messages sent: 44125
+Minutes elapsed: 36:42
+MPS: 20.0373450337735
+
+Process id: 44371
+Time: 17:26:56
+Total messages sent: 44232
+Minutes elapsed: 36:47
+MPS: 20.040241795032
+
+Process id: 44371
+Time: 17:27:01
+Total messages sent: 44330
+Minutes elapsed: 36:52
+MPS: 20.0388114484686
+
+Process id: 44371
+Time: 17:27:06
+Total messages sent: 44428
+Minutes elapsed: 36:57
+MPS: 20.0375985141319
+
+Process id: 44371
+Time: 17:27:11
+Total messages sent: 44526
+Minutes elapsed: 37:02
+MPS: 20.036218134965
+
+Process id: 44371
+Time: 17:27:16
+Total messages sent: 44626
+Minutes elapsed: 37:07
+MPS: 20.035957247416
+
+Process id: 44371
+Time: 17:27:21
+Total messages sent: 44723
+Minutes elapsed: 37:12
+MPS: 20.0341350878057
+
+Process id: 44371
+Time: 17:27:26
+Total messages sent: 44820
+Minutes elapsed: 37:17
+MPS: 20.032489524634
+
+Process id: 44371
+Time: 17:27:31
+Total messages sent: 44924
+Minutes elapsed: 37:22
+MPS: 20.0337462310107
+
+Process id: 44371
+Time: 17:27:36
+Total messages sent: 45021
+Minutes elapsed: 37:27
+MPS: 20.0321725028795
+
+Process id: 44371
+Time: 17:27:41
+Total messages sent: 45135
+Minutes elapsed: 37:32
+MPS: 20.0377156823526
+
+Process id: 44371
+Time: 17:27:46
+Total messages sent: 45237
+Minutes elapsed: 37:37
+MPS: 20.0383173628636
+
+Process id: 44371
+Time: 17:27:51
+Total messages sent: 45332
+Minutes elapsed: 37:42
+MPS: 20.0356384648456
+
+Process id: 44371
+Time: 17:27:56
+Total messages sent: 45438
+Minutes elapsed: 37:47
+MPS: 20.0379749657429
+
+Process id: 44371
+Time: 17:28:01
+Total messages sent: 45538
+Minutes elapsed: 37:52
+MPS: 20.0374821568925
+
+Process id: 44371
+Time: 17:28:06
+Total messages sent: 45647
+Minutes elapsed: 37:57
+MPS: 20.0411323309578
+
+Process id: 44371
+Time: 17:28:11
+Total messages sent: 45742
+Minutes elapsed: 38:02
+MPS: 20.0384477103066
+
+Process id: 44371
+Time: 17:28:16
+Total messages sent: 45849
+Minutes elapsed: 38:07
+MPS: 20.0412446620835
+
+Process id: 44371
+Time: 17:28:21
+Total messages sent: 45957
+Minutes elapsed: 38:12
+MPS: 20.04420146592
+
+Process id: 44371
+Time: 17:28:26
+Total messages sent: 46063
+Minutes elapsed: 38:17
+MPS: 20.046467531567
+
+Process id: 44371
+Time: 17:28:31
+Total messages sent: 46160
+Minutes elapsed: 38:22
+MPS: 20.0444792465898
+
+Process id: 44371
+Time: 17:28:36
+Total messages sent: 46256
+Minutes elapsed: 38:27
+MPS: 20.0424963403566
+
+Process id: 44371
+Time: 17:28:41
+Total messages sent: 46371
+Minutes elapsed: 38:32
+MPS: 20.0483996496092
+
+Process id: 44371
+Time: 17:28:46
+Total messages sent: 46476
+Minutes elapsed: 38:38
+MPS: 20.0497580673314
+
+Process id: 44371
+Time: 17:28:51
+Total messages sent: 46575
+Minutes elapsed: 38:43
+MPS: 20.0488374182826
+
+Process id: 44371
+Time: 17:28:56
+Total messages sent: 46668
+Minutes elapsed: 38:48
+MPS: 20.0456065296606
+
+Process id: 44371
+Time: 17:29:01
+Total messages sent: 46764
+Minutes elapsed: 38:53
+MPS: 20.0436225674348
+
+Process id: 44371
+Time: 17:29:07
+Total messages sent: 46862
+Minutes elapsed: 38:58
+MPS: 20.0422823385227
+
+Process id: 44371
+Time: 17:29:12
+Total messages sent: 46954
+Minutes elapsed: 39:03
+MPS: 20.0386251349159
+
+Process id: 44371
+Time: 17:29:17
+Total messages sent: 47054
+Minutes elapsed: 39:08
+MPS: 20.0381626368791
+
+Process id: 44371
+Time: 17:29:22
+Total messages sent: 47155
+Minutes elapsed: 39:13
+MPS: 20.0383354711108
+
+Process id: 44371
+Time: 17:29:27
+Total messages sent: 47256
+Minutes elapsed: 39:18
+MPS: 20.0382621490476
+
+Process id: 44371
+Time: 17:29:32
+Total messages sent: 47365
+Minutes elapsed: 39:23
+MPS: 20.0417461808438
+
+Process id: 44371
+Time: 17:29:37
+Total messages sent: 47472
+Minutes elapsed: 39:28
+MPS: 20.0441320512083
+
+Process id: 44371
+Time: 17:29:42
+Total messages sent: 47566
+Minutes elapsed: 39:33
+MPS: 20.0413338543414
+
+Process id: 44371
+Time: 17:29:47
+Total messages sent: 47663
+Minutes elapsed: 39:38
+MPS: 20.0395449093729
+
+Process id: 44371
+Time: 17:29:52
+Total messages sent: 47759
+Minutes elapsed: 39:43
+MPS: 20.0376513674453
+
+Process id: 44371
+Time: 17:29:57
+Total messages sent: 47846
+Minutes elapsed: 39:48
+MPS: 20.0317753544623
+
+Process id: 44371
+Time: 17:30:02
+Total messages sent: 47950
+Minutes elapsed: 39:53
+MPS: 20.0332070607358
+
+Process id: 44371
+Time: 17:30:07
+Total messages sent: 48056
+Minutes elapsed: 39:58
+MPS: 20.0352174145471
+
+Process id: 44371
+Time: 17:30:12
+Total messages sent: 48161
+Minutes elapsed: 40:03
+MPS: 20.0370327267115
+
+Process id: 44371
+Time: 17:30:17
+Total messages sent: 48264
+Minutes elapsed: 40:08
+MPS: 20.0378091254859
+
+Process id: 44371
+Time: 17:30:22
+Total messages sent: 48360
+Minutes elapsed: 40:13
+MPS: 20.0359308789836
+
+Process id: 44371
+Time: 17:30:27
+Total messages sent: 48462
+Minutes elapsed: 40:18
+MPS: 20.0364610670226
+
+Process id: 44371
+Time: 17:30:32
+Total messages sent: 48560
+Minutes elapsed: 40:23
+MPS: 20.0351414400451
+
+Process id: 44371
+Time: 17:30:37
+Total messages sent: 48668
+Minutes elapsed: 40:28
+MPS: 20.038184558299
+
+Process id: 44371
+Time: 17:30:42
+Total messages sent: 48773
+Minutes elapsed: 40:33
+MPS: 20.0397456859842
+
+Process id: 44371
+Time: 17:30:47
+Total messages sent: 48854
+Minutes elapsed: 40:38
+MPS: 20.0318083253187
+
+Process id: 44371
+Time: 17:30:52
+Total messages sent: 48958
+Minutes elapsed: 40:43
+MPS: 20.0329818056376
+
+Process id: 44371
+Time: 17:30:57
+Total messages sent: 49056
+Minutes elapsed: 40:48
+MPS: 20.0319404422841
+
+Process id: 44371
+Time: 17:31:02
+Total messages sent: 49152
+Minutes elapsed: 40:53
+MPS: 20.0298934015245
+
+Process id: 44371
+Time: 17:31:07
+Total messages sent: 49244
+Minutes elapsed: 40:58
+MPS: 20.0262672775475
+
+Process id: 44371
+Time: 17:31:12
+Total messages sent: 49351
+Minutes elapsed: 41:04
+MPS: 20.0283890635602
+
+Process id: 44371
+Time: 17:31:17
+Total messages sent: 49458
+Minutes elapsed: 41:09
+MPS: 20.0309890960306
+
+Process id: 44371
+Time: 17:31:22
+Total messages sent: 49553
+Minutes elapsed: 41:14
+MPS: 20.0285354955875
+
+Process id: 44371
+Time: 17:31:27
+Total messages sent: 49651
+Minutes elapsed: 41:19
+MPS: 20.0275046117697
+
+Process id: 44371
+Time: 17:31:33
+Total messages sent: 49754
+Minutes elapsed: 41:24
+MPS: 20.0282680361432
+
+Process id: 44371
+Time: 17:31:38
+Total messages sent: 49852
+Minutes elapsed: 41:29
+MPS: 20.0272247164963
+
+Process id: 44371
+Time: 17:31:43
+Total messages sent: 49963
+Minutes elapsed: 41:34
+MPS: 20.0310499034158
+
+Process id: 44371
+Time: 17:31:48
+Total messages sent: 50073
+Minutes elapsed: 41:39
+MPS: 20.0348113339308
+
+Process id: 44371
+Time: 17:31:53
+Total messages sent: 50188
+Minutes elapsed: 41:44
+MPS: 20.0402698017197
+
+Process id: 44371
+Time: 17:31:58
+Total messages sent: 50291
+Minutes elapsed: 41:49
+MPS: 20.0412127768936
+
+Process id: 44371
+Time: 17:32:03
+Total messages sent: 50411
+Minutes elapsed: 41:54
+MPS: 20.0486641621722
+
+Process id: 44371
+Time: 17:32:08
+Total messages sent: 50505
+Minutes elapsed: 41:59
+MPS: 20.0460543183989
+
+Process id: 44371
+Time: 17:32:13
+Total messages sent: 50608
+Minutes elapsed: 42:04
+MPS: 20.0467529669191
+
+Process id: 44371
+Time: 17:32:18
+Total messages sent: 50705
+Minutes elapsed: 42:09
+MPS: 20.0453152607836
+
+Process id: 44371
+Time: 17:32:23
+Total messages sent: 50812
+Minutes elapsed: 42:14
+MPS: 20.0475775350174
+
+Process id: 44371
+Time: 17:32:28
+Total messages sent: 50920
+Minutes elapsed: 42:19
+MPS: 20.0504744232652
+
+Process id: 44371
+Time: 17:32:33
+Total messages sent: 51020
+Minutes elapsed: 42:24
+MPS: 20.0499922151644
+
+Process id: 44371
+Time: 17:32:38
+Total messages sent: 51115
+Minutes elapsed: 42:29
+MPS: 20.0477749439164
+
+Process id: 44371
+Time: 17:32:43
+Total messages sent: 51220
+Minutes elapsed: 42:34
+MPS: 20.0492273117043
+
+Process id: 44371
+Time: 17:32:48
+Total messages sent: 51324
+Minutes elapsed: 42:39
+MPS: 20.0505170597409
+
+Process id: 44371
+Time: 17:32:53
+Total messages sent: 51423
+Minutes elapsed: 42:44
+MPS: 20.0498750887481
+
+Process id: 44371
+Time: 17:32:58
+Total messages sent: 51530
+Minutes elapsed: 42:49
+MPS: 20.0520844273681
+
+Process id: 44371
+Time: 17:33:03
+Total messages sent: 51633
+Minutes elapsed: 42:54
+MPS: 20.0529934207783
+
+Process id: 44371
+Time: 17:33:08
+Total messages sent: 51722
+Minutes elapsed: 42:59
+MPS: 20.0483047238687
+
+Process id: 44371
+Time: 17:33:13
+Total messages sent: 51830
+Minutes elapsed: 43:04
+MPS: 20.0511066071498
+
+Process id: 44371
+Time: 17:33:18
+Total messages sent: 51948
+Minutes elapsed: 43:09
+MPS: 20.0575073849153
+
+Process id: 44371
+Time: 17:33:23
+Total messages sent: 52035
+Minutes elapsed: 43:14
+MPS: 20.0522628753606
+
+Process id: 44371
+Time: 17:33:28
+Total messages sent: 52136
+Minutes elapsed: 43:20
+MPS: 20.0521715457755
+
+Process id: 44371
+Time: 17:33:33
+Total messages sent: 52249
+Minutes elapsed: 43:25
+MPS: 20.0568551749269
+
+Process id: 44371
+Time: 17:33:38
+Total messages sent: 52341
+Minutes elapsed: 43:30
+MPS: 20.053356103008
+
+Process id: 44371
+Time: 17:33:43
+Total messages sent: 52452
+Minutes elapsed: 43:35
+MPS: 20.0572423187639
+
+Process id: 44371
+Time: 17:33:49
+Total messages sent: 52562
+Minutes elapsed: 43:40
+MPS: 20.0605506742529
+
+Process id: 44371
+Time: 17:33:54
+Total messages sent: 52666
+Minutes elapsed: 43:45
+MPS: 20.0617933862666
+
+Process id: 44371
+Time: 17:33:59
+Total messages sent: 52755
+Minutes elapsed: 43:50
+MPS: 20.0571263685705
+
+Process id: 44371
+Time: 17:34:04
+Total messages sent: 52861
+Minutes elapsed: 43:55
+MPS: 20.0591339139157
+
+Process id: 44371
+Time: 17:34:09
+Total messages sent: 52961
+Minutes elapsed: 44:00
+MPS: 20.05867471979
+
+Process id: 44371
+Time: 17:34:14
+Total messages sent: 53064
+Minutes elapsed: 44:05
+MPS: 20.0595464369844
+
+Process id: 44371
+Time: 17:34:19
+Total messages sent: 53174
+Minutes elapsed: 44:10
+MPS: 20.0628293909976
+
+Process id: 44371
+Time: 17:34:24
+Total messages sent: 53281
+Minutes elapsed: 44:15
+MPS: 20.0651693321112
+
+Process id: 44371
+Time: 17:34:29
+Total messages sent: 53373
+Minutes elapsed: 44:20
+MPS: 20.0616982036474
+
+Process id: 44371
+Time: 17:34:34
+Total messages sent: 53470
+Minutes elapsed: 44:25
+MPS: 20.0602955533657
+
+Process id: 44371
+Time: 17:34:39
+Total messages sent: 53575
+Minutes elapsed: 44:30
+MPS: 20.0616913766919
+
+Process id: 44371
+Time: 17:34:44
+Total messages sent: 53668
+Minutes elapsed: 44:35
+MPS: 20.0587936367845
+
+Process id: 44371
+Time: 17:34:49
+Total messages sent: 53769
+Minutes elapsed: 44:40
+MPS: 20.0586711262107
+
+Process id: 44371
+Time: 17:34:54
+Total messages sent: 53866
+Minutes elapsed: 44:45
+MPS: 20.0573430598346
+
+Process id: 44371
+Time: 17:34:59
+Total messages sent: 53946
+Minutes elapsed: 44:50
+MPS: 20.0497399833681
+
+Process id: 44371
+Time: 17:35:04
+Total messages sent: 54044
+Minutes elapsed: 44:55
+MPS: 20.0485725972765
+
+Process id: 44371
+Time: 17:35:09
+Total messages sent: 54150
+Minutes elapsed: 45:00
+MPS: 20.0505062439946
+
+Process id: 44371
+Time: 17:35:14
+Total messages sent: 54259
+Minutes elapsed: 45:05
+MPS: 20.0533317802473
+
+Process id: 44371
+Time: 17:35:19
+Total messages sent: 54361
+Minutes elapsed: 45:10
+MPS: 20.0538165032742
+
+Process id: 44371
+Time: 17:35:24
+Total messages sent: 54469
+Minutes elapsed: 45:15
+MPS: 20.0562602900366
