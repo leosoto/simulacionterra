@@ -114,6 +114,7 @@ class TestProducer < MsgProducer
 
   def message
     <<EOM
+    Origen: 1234
     Destino: 123456789
     Carrier: Movistar
     Text: #{random_string(@msg_len_sample.next.to_i)}
