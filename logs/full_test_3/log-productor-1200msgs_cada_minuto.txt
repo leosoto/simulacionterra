@@ -1,0 +1,391 @@
+Producer started in process id 44896
+
+Process id: 44896
+Time: 17:44:13
+Total messages sent: 1578
+Minutes elapsed: 01:00
+MPS: 26.2764020392087
+
+Process id: 44896
+Time: 17:45:14
+Total messages sent: 3303
+Minutes elapsed: 02:00
+MPS: 27.431982490771
+
+Process id: 44896
+Time: 17:46:15
+Total messages sent: 4941
+Minutes elapsed: 03:01
+MPS: 27.2362171814745
+
+Process id: 44896
+Time: 17:47:15
+Total messages sent: 5633
+Minutes elapsed: 04:02
+MPS: 23.2483719866305
+
+Process id: 44896
+Time: 17:48:16
+Total messages sent: 7070
+Minutes elapsed: 05:02
+MPS: 23.3543324237245
+
+Process id: 44896
+Time: 17:49:17
+Total messages sent: 8578
+Minutes elapsed: 06:03
+MPS: 23.5796346758105
+
+Process id: 44896
+Time: 17:50:18
+Total messages sent: 10086
+Minutes elapsed: 07:04
+MPS: 23.7515637299775
+
+Process id: 44896
+Time: 17:51:19
+Total messages sent: 10837
+Minutes elapsed: 08:05
+MPS: 22.3189127509195
+
+Process id: 44896
+Time: 17:52:19
+Total messages sent: 12119
+Minutes elapsed: 09:05
+MPS: 22.1960944818822
+
+Process id: 44896
+Time: 17:53:21
+Total messages sent: 14693
+Minutes elapsed: 10:06
+MPS: 24.2149732447371
+
+Process id: 44896
+Time: 17:54:22
+Total messages sent: 15529
+Minutes elapsed: 11:08
+MPS: 23.2245099558482
+
+Process id: 44896
+Time: 17:55:23
+Total messages sent: 17092
+Minutes elapsed: 12:09
+MPS: 23.4391882336054
+
+Process id: 44896
+Time: 17:56:23
+Total messages sent: 17621
+Minutes elapsed: 13:10
+MPS: 22.3025046856935
+
+Process id: 44896
+Time: 17:57:24
+Total messages sent: 18720
+Minutes elapsed: 14:10
+MPS: 22.008969339259
+
+Process id: 44896
+Time: 17:58:25
+Total messages sent: 20789
+Minutes elapsed: 15:11
+MPS: 22.8136982939199
+
+Process id: 44896
+Time: 17:59:25
+Total messages sent: 20921
+Minutes elapsed: 16:12
+MPS: 21.513460633796
+
+Process id: 44896
+Time: 18:00:26
+Total messages sent: 22053
+Minutes elapsed: 17:12
+MPS: 21.3581646333798
+
+Process id: 44896
+Time: 18:01:26
+Total messages sent: 23150
+Minutes elapsed: 18:13
+MPS: 21.176815545135
+
+Process id: 44896
+Time: 18:02:27
+Total messages sent: 23944
+Minutes elapsed: 19:13
+MPS: 20.748982639963
+
+Process id: 44896
+Time: 18:03:28
+Total messages sent: 25071
+Minutes elapsed: 20:14
+MPS: 20.6444183812173
+
+Process id: 44896
+Time: 18:04:29
+Total messages sent: 26726
+Minutes elapsed: 21:15
+MPS: 20.9596575505339
+
+Process id: 44896
+Time: 18:05:30
+Total messages sent: 28461
+Minutes elapsed: 22:16
+MPS: 21.3008139041666
+
+Process id: 44896
+Time: 18:06:30
+Total messages sent: 29111
+Minutes elapsed: 23:17
+MPS: 20.8356831719618
+
+Process id: 44896
+Time: 18:07:31
+Total messages sent: 29923
+Minutes elapsed: 24:17
+MPS: 20.5285751141809
+
+Process id: 44896
+Time: 18:08:32
+Total messages sent: 31616
+Minutes elapsed: 25:18
+MPS: 20.8248394849222
+
+Process id: 44896
+Time: 18:09:33
+Total messages sent: 33253
+Minutes elapsed: 26:19
+MPS: 21.054178667376
+
+Process id: 44896
+Time: 18:10:33
+Total messages sent: 33826
+Minutes elapsed: 27:20
+MPS: 20.6213748927092
+
+Process id: 44896
+Time: 18:11:34
+Total messages sent: 34685
+Minutes elapsed: 28:20
+MPS: 20.3942201040969
+
+Process id: 44896
+Time: 18:12:34
+Total messages sent: 35114
+Minutes elapsed: 29:21
+MPS: 19.9367925324004
+
+Process id: 44896
+Time: 18:13:35
+Total messages sent: 36189
+Minutes elapsed: 30:21
+MPS: 19.8673384756107
+
+Process id: 44896
+Time: 18:14:35
+Total messages sent: 36432
+Minutes elapsed: 31:22
+MPS: 19.3564616715348
+
+Process id: 44896
+Time: 18:15:35
+Total messages sent: 37157
+Minutes elapsed: 32:22
+MPS: 19.129514237285
+
+Process id: 44896
+Time: 18:16:36
+Total messages sent: 38707
+Minutes elapsed: 33:22
+MPS: 19.3260028954394
+
+Process id: 44896
+Time: 18:17:37
+Total messages sent: 39841
+Minutes elapsed: 34:23
+MPS: 19.3054221834507
+
+Process id: 44896
+Time: 18:18:38
+Total messages sent: 42115
+Minutes elapsed: 35:24
+MPS: 19.8247573824985
+
+Process id: 44896
+Time: 18:19:39
+Total messages sent: 42709
+Minutes elapsed: 36:25
+MPS: 19.5400374197779
+
+Process id: 44896
+Time: 18:20:40
+Total messages sent: 44660
+Minutes elapsed: 37:26
+MPS: 19.8829597012151
+
+Process id: 44896
+Time: 18:21:40
+Total messages sent: 45546
+Minutes elapsed: 38:27
+MPS: 19.7401887682921
+
+Process id: 44896
+Time: 18:22:42
+Total messages sent: 48039
+Minutes elapsed: 39:27
+MPS: 20.2878587728327
+
+Process id: 44896
+Time: 18:23:42
+Total messages sent: 48432
+Minutes elapsed: 40:29
+MPS: 19.9359714652561
+
+Process id: 44896
+Time: 18:24:43
+Total messages sent: 49355
+Minutes elapsed: 41:29
+MPS: 19.8239332199695
+
+Process id: 44896
+Time: 18:25:43
+Total messages sent: 49874
+Minutes elapsed: 42:30
+MPS: 19.5567659950501
+
+Process id: 44896
+Time: 18:26:44
+Total messages sent: 51089
+Minutes elapsed: 43:30
+MPS: 19.5702532281174
+
+Process id: 44896
+Time: 18:27:45
+Total messages sent: 52542
+Minutes elapsed: 44:31
+MPS: 19.669587777274
+
+Process id: 44896
+Time: 18:28:45
+Total messages sent: 53777
+Minutes elapsed: 45:32
+MPS: 19.683205856682
+
+Process id: 44896
+Time: 18:29:46
+Total messages sent: 54545
+Minutes elapsed: 46:32
+MPS: 19.5301304125935
+
+Process id: 44896
+Time: 18:30:47
+Total messages sent: 56130
+Minutes elapsed: 47:33
+MPS: 19.6709789377582
+
+Process id: 44896
+Time: 18:31:48
+Total messages sent: 58310
+Minutes elapsed: 48:34
+MPS: 20.007801704465
+
+Process id: 44896
+Time: 18:32:49
+Total messages sent: 59999
+Minutes elapsed: 49:35
+MPS: 20.163669831114
+
+Process id: 44896
+Time: 18:33:50
+Total messages sent: 61009
+Minutes elapsed: 50:36
+MPS: 20.0904850564762
+
+Process id: 44896
+Time: 18:34:50
+Total messages sent: 61735
+Minutes elapsed: 51:37
+MPS: 19.9317925631829
+
+Process id: 44896
+Time: 18:35:51
+Total messages sent: 62214
+Minutes elapsed: 52:37
+MPS: 19.7015651785808
+
+Process id: 44896
+Time: 18:36:52
+Total messages sent: 64098
+Minutes elapsed: 53:38
+MPS: 19.9175429631
+
+Process id: 44896
+Time: 18:37:53
+Total messages sent: 65792
+Minutes elapsed: 54:39
+MPS: 20.0631088027084
+
+Process id: 44896
+Time: 18:38:53
+Total messages sent: 66517
+Minutes elapsed: 55:40
+MPS: 19.9135372099018
+
+Process id: 44896
+Time: 18:39:54
+Total messages sent: 67925
+Minutes elapsed: 56:40
+MPS: 19.9737706179177
+
+Process id: 44896
+Time: 18:40:56
+Total messages sent: 70278
+Minutes elapsed: 57:41
+MPS: 20.3009616671671
+
+Process id: 44896
+Time: 18:41:57
+Total messages sent: 71634
+Minutes elapsed: 58:43
+MPS: 20.3317704607669
+
+Process id: 44896
+Time: 18:42:57
+Total messages sent: 72479
+Minutes elapsed: 59:44
+MPS: 20.2224598594928
+
+Process id: 44896
+Time: 18:43:58
+Total messages sent: 74252
+Minutes elapsed: 60:44
+MPS: 20.3733207547531
+
+Process id: 44896
+Time: 18:44:58
+Total messages sent: 74589
+Minutes elapsed: 61:45
+MPS: 20.1281065836386
+
+Process id: 44896
+Time: 18:45:59
+Total messages sent: 74873
+Minutes elapsed: 62:45
+MPS: 19.8814228531332
+
+Process id: 44896
+Time: 18:47:00
+Total messages sent: 76322
+Minutes elapsed: 63:46
+MPS: 19.9474158706354
+
+Process id: 44896
+Time: 18:48:00
+Total messages sent: 77928
+Minutes elapsed: 64:46
+MPS: 20.0485366407218
+
+Process id: 44896
+Time: 18:49:01
+Total messages sent: 79762
+Minutes elapsed: 65:47
+MPS: 20.2036563413184

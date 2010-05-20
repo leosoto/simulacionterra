@@ -1,0 +1,73 @@
+Producer started in process id 44898
+
+Process id: 44898
+Time: 17:48:16
+Total messages sent: 9262
+Minutes elapsed: 05:00
+MPS: 30.8726783180084
+
+Process id: 44898
+Time: 17:53:29
+Total messages sent: 31003
+Minutes elapsed: 10:02
+MPS: 51.4968670743194
+
+Process id: 44898
+Time: 17:58:45
+Total messages sent: 57558
+Minutes elapsed: 15:15
+MPS: 62.8974729654596
+
+Process id: 44898
+Time: 18:03:59
+Total messages sent: 81668
+Minutes elapsed: 20:31
+MPS: 66.3386749296446
+
+Process id: 44898
+Time: 18:09:04
+Total messages sent: 90450
+Minutes elapsed: 25:45
+MPS: 58.5254279095397
+
+Process id: 44898
+Time: 18:14:13
+Total messages sent: 104471
+Minutes elapsed: 30:50
+MPS: 56.4509372736007
+
+Process id: 44898
+Time: 18:19:17
+Total messages sent: 111380
+Minutes elapsed: 35:59
+MPS: 51.5846092861855
+
+Process id: 44898
+Time: 18:24:29
+Total messages sent: 132561
+Minutes elapsed: 41:03
+MPS: 53.8146962163809
+
+Process id: 44898
+Time: 18:29:45
+Total messages sent: 158789
+Minutes elapsed: 46:15
+MPS: 57.2064622690039
+
+Process id: 44898
+Time: 18:34:50
+Total messages sent: 167071
+Minutes elapsed: 51:31
+MPS: 54.0462590326021
+
+Process id: 44898
+Time: 18:40:00
+Total messages sent: 183347
+Minutes elapsed: 56:36
+MPS: 53.9817580009628
+
+Process id: 44898
+Time: 18:45:07
+Total messages sent: 195940
+Minutes elapsed: 61:46
+MPS: 52.8676059841887
