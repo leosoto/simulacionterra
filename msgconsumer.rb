@@ -45,10 +45,16 @@ class MsgConsumer
     puts "Consumer started in process id #{Process.pid}"
     AMQP.start(:host => @host) do
       @start_time = Time.now
-      MQ.queue(@queue_name, :durable => true).subscribe(:ack => true) do |h, msg|
-        process msg 
-        @total_messages_received += 1
-        h.ack
+      queue = MQ.queue(@queue_name, :durable => true)
+      queue.pop(:ack => true) do |h, msg|
+        if msg
+          process msg
+          @total_messages_received += 1
+          h.ack
+          queue.pop
+        else
+          EM.add_timer(1) { queue.pop }
+        end
       end
     end
   end
