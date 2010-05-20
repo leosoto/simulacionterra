@@ -1,0 +1,265 @@
+Producer started in process id 43104
+
+Process id: 43104
+Time: 15:52:56
+Total messages sent: 948
+Minutes elapsed: 01:00
+MPS: 15.7834431681166
+
+Process id: 43104
+Time: 15:53:57
+Total messages sent: 2523
+Minutes elapsed: 02:00
+MPS: 20.9780497261762
+
+Process id: 43104
+Time: 15:54:58
+Total messages sent: 4035
+Minutes elapsed: 03:01
+MPS: 22.2532839215203
+
+Process id: 43104
+Time: 15:55:58
+Total messages sent: 4952
+Minutes elapsed: 04:02
+MPS: 20.4352264992925
+
+Process id: 43104
+Time: 15:56:59
+Total messages sent: 6039
+Minutes elapsed: 05:02
+MPS: 19.9361316855082
+
+Process id: 43104
+Time: 15:58:01
+Total messages sent: 8339
+Minutes elapsed: 06:03
+MPS: 22.9273337032977
+
+Process id: 43104
+Time: 15:59:01
+Total messages sent: 9216
+Minutes elapsed: 07:05
+MPS: 21.6833809002306
+
+Process id: 43104
+Time: 16:00:02
+Total messages sent: 10515
+Minutes elapsed: 08:05
+MPS: 21.6546108353507
+
+Process id: 43104
+Time: 16:01:02
+Total messages sent: 10515
+Minutes elapsed: 09:06
+MPS: 19.2453819305894
+
+Process id: 43104
+Time: 16:02:03
+Total messages sent: 12187
+Minutes elapsed: 10:06
+MPS: 20.0968225564731
+
+Process id: 43104
+Time: 16:03:04
+Total messages sent: 12779
+Minutes elapsed: 11:07
+MPS: 19.1382474163482
+
+Process id: 43104
+Time: 16:04:04
+Total messages sent: 13531
+Minutes elapsed: 12:08
+MPS: 18.5844335702121
+
+Process id: 43104
+Time: 16:05:05
+Total messages sent: 14620
+Minutes elapsed: 13:08
+MPS: 18.5409029928808
+
+Process id: 43104
+Time: 16:06:06
+Total messages sent: 16643
+Minutes elapsed: 14:09
+MPS: 19.6014627022978
+
+Process id: 43104
+Time: 16:07:06
+Total messages sent: 17506
+Minutes elapsed: 15:10
+MPS: 19.2347343060365
+
+Process id: 43104
+Time: 16:08:07
+Total messages sent: 18463
+Minutes elapsed: 16:10
+MPS: 19.0214339984119
+
+Process id: 43104
+Time: 16:09:07
+Total messages sent: 18855
+Minutes elapsed: 17:11
+MPS: 18.2842185508852
+
+Process id: 43104
+Time: 16:10:07
+Total messages sent: 19280
+Minutes elapsed: 18:11
+MPS: 17.6647458173547
+
+Process id: 43104
+Time: 16:11:08
+Total messages sent: 20067
+Minutes elapsed: 19:11
+MPS: 17.4241000315577
+
+Process id: 43104
+Time: 16:12:08
+Total messages sent: 20914
+Minutes elapsed: 20:12
+MPS: 17.2541125202767
+
+Process id: 43104
+Time: 16:13:09
+Total messages sent: 22577
+Minutes elapsed: 21:12
+MPS: 17.7405582989764
+
+Process id: 43104
+Time: 16:14:09
+Total messages sent: 22668
+Minutes elapsed: 22:13
+MPS: 16.998925391649
+
+Process id: 43104
+Time: 16:15:10
+Total messages sent: 24284
+Minutes elapsed: 23:13
+MPS: 17.4253801740019
+
+Process id: 43104
+Time: 16:16:11
+Total messages sent: 26496
+Minutes elapsed: 24:14
+MPS: 18.2170547970755
+
+Process id: 43104
+Time: 16:17:12
+Total messages sent: 28528
+Minutes elapsed: 25:15
+MPS: 18.8228390567721
+
+Process id: 43104
+Time: 16:18:13
+Total messages sent: 30351
+Minutes elapsed: 26:16
+MPS: 19.2498243311619
+
+Process id: 43104
+Time: 16:19:13
+Total messages sent: 30613
+Minutes elapsed: 27:17
+MPS: 18.6934852921642
+
+Process id: 43104
+Time: 16:20:14
+Total messages sent: 31879
+Minutes elapsed: 28:17
+MPS: 18.7764217846099
+
+Process id: 43104
+Time: 16:21:15
+Total messages sent: 32919
+Minutes elapsed: 29:18
+MPS: 18.7196221331081
+
+Process id: 43104
+Time: 16:22:16
+Total messages sent: 35308
+Minutes elapsed: 30:19
+MPS: 19.4094960426161
+
+Process id: 43104
+Time: 16:23:16
+Total messages sent: 35785
+Minutes elapsed: 31:20
+MPS: 19.0308559299416
+
+Process id: 43104
+Time: 16:24:17
+Total messages sent: 36972
+Minutes elapsed: 32:20
+MPS: 19.0514831901207
+
+Process id: 43104
+Time: 16:25:17
+Total messages sent: 38126
+Minutes elapsed: 33:21
+MPS: 19.0509042665412
+
+Process id: 43104
+Time: 16:26:18
+Total messages sent: 38669
+Minutes elapsed: 34:21
+MPS: 18.7541129592315
+
+Process id: 43104
+Time: 16:27:19
+Total messages sent: 40902
+Minutes elapsed: 35:22
+MPS: 19.273314024129
+
+Process id: 43104
+Time: 16:28:20
+Total messages sent: 41965
+Minutes elapsed: 36:23
+MPS: 19.2198916958164
+
+Process id: 43104
+Time: 16:29:20
+Total messages sent: 43403
+Minutes elapsed: 37:23
+MPS: 19.3418806115198
+
+Process id: 43104
+Time: 16:30:21
+Total messages sent: 44629
+Minutes elapsed: 38:24
+MPS: 19.3635624186352
+
+Process id: 43104
+Time: 16:31:22
+Total messages sent: 45916
+Minutes elapsed: 39:25
+MPS: 19.411072326939
+
+Process id: 43104
+Time: 16:32:23
+Total messages sent: 48653
+Minutes elapsed: 40:26
+MPS: 20.0534890228962
+
+Process id: 43104
+Time: 16:33:24
+Total messages sent: 50003
+Minutes elapsed: 41:27
+MPS: 20.1008492041376
+
+Process id: 43104
+Time: 16:34:24
+Total messages sent: 50758
+Minutes elapsed: 42:28
+MPS: 19.9178265067175
+
+Process id: 43104
+Time: 16:35:25
+Total messages sent: 52644
+Minutes elapsed: 43:28
+MPS: 20.1794887712277
+
+Process id: 43104
+Time: 16:36:26
+Total messages sent: 53757
+Minutes elapsed: 44:29
+MPS: 20.1357258721403

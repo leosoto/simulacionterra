@@ -1,0 +1,49 @@
+Producer started in process id 43106
+
+Process id: 43106
+Time: 15:57:02
+Total messages sent: 22968
+Minutes elapsed: 05:00
+MPS: 76.5416412322116
+
+Process id: 43106
+Time: 16:02:14
+Total messages sent: 45756
+Minutes elapsed: 10:05
+MPS: 75.6211942468012
+
+Process id: 43106
+Time: 16:07:24
+Total messages sent: 65281
+Minutes elapsed: 15:17
+MPS: 71.1242775394974
+
+Process id: 43106
+Time: 16:12:39
+Total messages sent: 93708
+Minutes elapsed: 20:27
+MPS: 76.3247101394871
+
+Process id: 43106
+Time: 16:17:50
+Total messages sent: 114694
+Minutes elapsed: 25:42
+MPS: 74.3425063091343
+
+Process id: 43106
+Time: 16:22:51
+Total messages sent: 116393
+Minutes elapsed: 30:53
+MPS: 62.7987886341197
+
+Process id: 43106
+Time: 16:27:52
+Total messages sent: 118654
+Minutes elapsed: 35:54
+MPS: 55.0776807571532
+
+Process id: 43106
+Time: 16:33:01
+Total messages sent: 137554
+Minutes elapsed: 40:55
+MPS: 56.0186243155778
