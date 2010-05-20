@@ -95,6 +95,7 @@ class MsgProducer
     puts "Total messages sent: #{@total_messages_sent}"    
     puts "Minutes elapsed: #{@total_elapsed_seconds.seconds_as_minutes_string}"
     puts "MPS: #{@total_messages_sent / @total_elapsed_seconds}"
+    $stdout.flush
   end
 
   def run

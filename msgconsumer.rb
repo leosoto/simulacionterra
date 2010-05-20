@@ -36,6 +36,7 @@ class MsgConsumer
     puts "Minutes elapsed: #{(Time.now - @start_time).seconds_as_minutes_string}"
     puts "MPS: #{@total_messages_received / (Time.now - @start_time)}"
     puts "Last message: \n#{msg}"
+    $stdout.flush
   end
 
   def process(msg)
