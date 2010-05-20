@@ -92,8 +92,8 @@ class MsgProducer
     puts
     puts "Process id: #{Process.pid}"
     puts "Time: #{Time.now.strftime('%H:%M:%S')}"
-    puts "Total messages sent #{@total_messages_sent}"    
-    puts "Minutes elapsed #{@total_elapsed_seconds.seconds_as_minutes_string}"
+    puts "Total messages sent: #{@total_messages_sent}"    
+    puts "Minutes elapsed: #{@total_elapsed_seconds.seconds_as_minutes_string}"
     puts "MPS: #{@total_messages_sent / @total_elapsed_seconds}"
   end
 
