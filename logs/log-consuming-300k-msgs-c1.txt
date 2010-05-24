@@ -6873,6 +6873,3 @@ Last message:
     Process: 39246
     Seq: 385560
     Generated-At: 12:53:05
-
-Process id: 41215
-Time
