@@ -26982,10 +26982,6 @@ router.resp.canal2	0	0	0	15146028
 router.req	0	0	0	900868
 router.resp.canal1	0	0	0	13846388
 ...done.
-ter.resp.canal2	904	0	904	8003152
-router.req	18467	0	18467	32410248
-router.resp.canal1	1199	0	1199	8003152
-...done.
 
 Thu May 20 18:02:30 CLT 2010
 Listing queues ...
